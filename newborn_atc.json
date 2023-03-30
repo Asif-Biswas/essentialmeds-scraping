@@ -1,0 +1,61 @@
+[{
+    "name": "Caffeine citrate",
+    "atc_codes": [
+        "N06BC01"
+    ]
+},
+{
+    "name": "Chlorhexidine",
+    "atc_codes": [
+        "D08AC02"
+    ]
+},
+{
+    "name": "Erythromycin",
+    "atc_codes": [
+        "S01AA17",
+        "J01FA01"
+    ]
+},
+{
+    "name": "Gentamicin",
+    "atc_codes": [
+        "S02AA14",
+        "J01GB03"
+    ]
+},
+{
+    "name": "Ibuprofen",
+    "atc_codes": [
+        "M01AE01",
+        "C01EB16"
+    ]
+},
+{
+    "name": "Indometacin",
+    "atc_codes": []
+},
+{
+    "name": "Phytomenadione",
+    "atc_codes": [
+        "B02BA01"
+    ]
+},
+{
+    "name": "Prostaglandin E1",
+    "atc_codes": [
+        "C01EA01"
+    ]
+},
+{
+    "name": "Prostaglandin E2",
+    "atc_codes": [
+        "G02AD02"
+    ]
+},
+{
+    "name": "Surfactant",
+    "atc_codes": [
+        "R07AA02"
+    ]
+}]

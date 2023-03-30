@@ -1,0 +1,3500 @@
+[
+    {
+        "name": "Abacavir",
+        "atc_codes": [
+            "J05AF06"
+        ]
+    },
+    {
+        "name": "Abacavir + lamivudine",
+        "atc_codes": [
+            "J05AR02"
+        ]
+    },
+    {
+        "name": "Abiraterone",
+        "atc_codes": [
+            "L02BX03"
+        ]
+    },
+    {
+        "name": "Acetazolamide",
+        "atc_codes": [
+            "S01EC01"
+        ]
+    },
+    {
+        "name": "Acetylcysteine",
+        "atc_codes": [
+            "V03AB23"
+        ]
+    },
+    {
+        "name": "Acetylsalicylic acid",
+        "atc_codes": [
+            "N02BA01",
+            "B01AC06"
+        ]
+    },
+    {
+        "name": "Aciclovir",
+        "atc_codes": [
+            "S01AD03",
+            "J05AB01"
+        ]
+    },
+    {
+        "name": "Aclidinium",
+        "atc_codes": []
+    },
+    {
+        "name": "Activated charcoal",
+        "atc_codes": [
+            "A07BA01"
+        ]
+    },
+    {
+        "name": "Adalimumab",
+        "atc_codes": [
+            "L04AB04"
+        ]
+    },
+    {
+        "name": "Afatinib",
+        "atc_codes": []
+    },
+    {
+        "name": "Albendazole",
+        "atc_codes": [
+            "P02CA03"
+        ]
+    },
+    {
+        "name": "Alcohol based hand rub",
+        "atc_codes": [
+            "D08AX08"
+        ]
+    },
+    {
+        "name": "All-trans retinoic acid",
+        "atc_codes": [
+            "L01XF01"
+        ]
+    },
+    {
+        "name": "Allopurinol",
+        "atc_codes": [
+            "M04AA01"
+        ]
+    },
+    {
+        "name": "Alteplase",
+        "atc_codes": [
+            "B01AD02"
+        ]
+    },
+    {
+        "name": "Amidotrizoate",
+        "atc_codes": [
+            "V08AA01"
+        ]
+    },
+    {
+        "name": "Amikacin",
+        "atc_codes": [
+            "J01GB06"
+        ]
+    },
+    {
+        "name": "Amiloride",
+        "atc_codes": [
+            "C03DB01"
+        ]
+    },
+    {
+        "name": "Amiodarone",
+        "atc_codes": [
+            "C01BD01"
+        ]
+    },
+    {
+        "name": "Amitriptyline",
+        "atc_codes": [
+            "N06AA09"
+        ]
+    },
+    {
+        "name": "Amlodipine",
+        "atc_codes": [
+            "C08CA01"
+        ]
+    },
+    {
+        "name": "Amodiaquine",
+        "atc_codes": [
+            "P01BA06"
+        ]
+    },
+    {
+        "name": "Amoxicillin",
+        "atc_codes": [
+            "J01CA04"
+        ]
+    },
+    {
+        "name": "Amoxicillin + clavulanic acid",
+        "atc_codes": [
+            "J01CR02"
+        ]
+    },
+    {
+        "name": "Amphotericin B",
+        "atc_codes": [
+            "J02AA01"
+        ]
+    },
+    {
+        "name": "Ampicillin",
+        "atc_codes": [
+            "J01CA01"
+        ]
+    },
+    {
+        "name": "Anastrozole",
+        "atc_codes": [
+            "L02BG03"
+        ]
+    },
+    {
+        "name": "Anidulafungin",
+        "atc_codes": []
+    },
+    {
+        "name": "Anti-d immunoglobulin",
+        "atc_codes": [
+            "J06BB01"
+        ]
+    },
+    {
+        "name": "Anti-rabies immunoglobulin",
+        "atc_codes": [
+            "J06BB05"
+        ]
+    },
+    {
+        "name": "Anti-rabies virus monoclonal antibodies",
+        "atc_codes": []
+    },
+    {
+        "name": "Anti-tetanus immunoglobulin",
+        "atc_codes": [
+            "J06BB02"
+        ]
+    },
+    {
+        "name": "Antivenom immunoglobulin",
+        "atc_codes": []
+    },
+    {
+        "name": "Apixaban",
+        "atc_codes": []
+    },
+    {
+        "name": "Aprepitant",
+        "atc_codes": [
+            "A04AD12"
+        ]
+    },
+    {
+        "name": "Arsenic trioxide",
+        "atc_codes": [
+            "L01XX27"
+        ]
+    },
+    {
+        "name": "Artemether",
+        "atc_codes": [
+            "P01BE02"
+        ]
+    },
+    {
+        "name": "Artemether + lumefantrine",
+        "atc_codes": [
+            "P01BF01"
+        ]
+    },
+    {
+        "name": "Artesunate",
+        "atc_codes": [
+            "P01BE03"
+        ]
+    },
+    {
+        "name": "Artesunate + amodiaquine",
+        "atc_codes": [
+            "P01BF03"
+        ]
+    },
+    {
+        "name": "Artesunate + mefloquine",
+        "atc_codes": [
+            "P01BF02"
+        ]
+    },
+    {
+        "name": "Artesunate + pyronaridine tetraphosphate",
+        "atc_codes": [
+            "P01BF06"
+        ]
+    },
+    {
+        "name": "Ascorbic acid",
+        "atc_codes": [
+            "A11GA01"
+        ]
+    },
+    {
+        "name": "Asparaginase",
+        "atc_codes": [
+            "L01XX02"
+        ]
+    },
+    {
+        "name": "Atazanavir + ritonavir",
+        "atc_codes": [
+            "J05AR23"
+        ]
+    },
+    {
+        "name": "Atenolol",
+        "atc_codes": [
+            "C07AB03"
+        ]
+    },
+    {
+        "name": "Atorvastatin",
+        "atc_codes": []
+    },
+    {
+        "name": "Atracurium",
+        "atc_codes": [
+            "M03AC04"
+        ]
+    },
+    {
+        "name": "Atropine",
+        "atc_codes": [
+            "A03BA01",
+            "S01FA01"
+        ]
+    },
+    {
+        "name": "Azathioprine",
+        "atc_codes": [
+            "L04AX01"
+        ]
+    },
+    {
+        "name": "Azithromycin",
+        "atc_codes": [
+            "S01AA26",
+            "J01FA10"
+        ]
+    },
+    {
+        "name": "Barium sulfate",
+        "atc_codes": [
+            "V08BA01"
+        ]
+    },
+    {
+        "name": "Bcg vaccine",
+        "atc_codes": [
+            "L03AX03"
+        ]
+    },
+    {
+        "name": "Beclometasone",
+        "atc_codes": [
+            "R03BA01"
+        ]
+    },
+    {
+        "name": "Beclometasone + formoterol",
+        "atc_codes": []
+    },
+    {
+        "name": "Bedaquiline",
+        "atc_codes": [
+            "J04AK05"
+        ]
+    },
+    {
+        "name": "Bendamustine",
+        "atc_codes": [
+            "L01AA09"
+        ]
+    },
+    {
+        "name": "Benzathine benzylpenicillin",
+        "atc_codes": [
+            "J01CE08"
+        ]
+    },
+    {
+        "name": "Benznidazole",
+        "atc_codes": [
+            "P01CA02"
+        ]
+    },
+    {
+        "name": "Benzoyl peroxide",
+        "atc_codes": [
+            "D10AE01"
+        ]
+    },
+    {
+        "name": "Benzyl benzoate",
+        "atc_codes": [
+            "P03AX01"
+        ]
+    },
+    {
+        "name": "Benzylpenicillin",
+        "atc_codes": [
+            "J01CE01"
+        ]
+    },
+    {
+        "name": "Betamethasone",
+        "atc_codes": [
+            "D07AC01"
+        ]
+    },
+    {
+        "name": "Bevacizumab",
+        "atc_codes": [
+            "S01LA08"
+        ]
+    },
+    {
+        "name": "Bicalutamide",
+        "atc_codes": [
+            "L02BB03"
+        ]
+    },
+    {
+        "name": "Biperiden",
+        "atc_codes": [
+            "N04AA02"
+        ]
+    },
+    {
+        "name": "Bisacodyl",
+        "atc_codes": []
+    },
+    {
+        "name": "Bisoprolol",
+        "atc_codes": [
+            "C07AB07"
+        ]
+    },
+    {
+        "name": "Bleomycin",
+        "atc_codes": [
+            "L01DC01"
+        ]
+    },
+    {
+        "name": "Bortezomib",
+        "atc_codes": [
+            "L01XG01"
+        ]
+    },
+    {
+        "name": "Budesonide",
+        "atc_codes": [
+            "R03BA02",
+            "R01AD05"
+        ]
+    },
+    {
+        "name": "Budesonide + formoterol",
+        "atc_codes": [
+            "R03AK07"
+        ]
+    },
+    {
+        "name": "Budesonide + salmeterol",
+        "atc_codes": []
+    },
+    {
+        "name": "Bumetanide",
+        "atc_codes": []
+    },
+    {
+        "name": "Bupivacaine",
+        "atc_codes": [
+            "N01BB01"
+        ]
+    },
+    {
+        "name": "Buprenorphine",
+        "atc_codes": []
+    },
+    {
+        "name": "Bupropion",
+        "atc_codes": [
+            "N06AX12"
+        ]
+    },
+    {
+        "name": "Calamine",
+        "atc_codes": [
+            "D02AB"
+        ]
+    },
+    {
+        "name": "Calcipotriol",
+        "atc_codes": [
+            "D05AX02"
+        ]
+    },
+    {
+        "name": "Calcitriol",
+        "atc_codes": []
+    },
+    {
+        "name": "Calcium",
+        "atc_codes": [
+            "A12AA20"
+        ]
+    },
+    {
+        "name": "Calcium folinate",
+        "atc_codes": [
+            "V03AF03"
+        ]
+    },
+    {
+        "name": "Calcium gluconate",
+        "atc_codes": [
+            "A12AA03"
+        ]
+    },
+    {
+        "name": "Canagliflozin",
+        "atc_codes": []
+    },
+    {
+        "name": "Capecitabine",
+        "atc_codes": [
+            "L01BC06"
+        ]
+    },
+    {
+        "name": "Carbachol",
+        "atc_codes": []
+    },
+    {
+        "name": "Carbamazepine",
+        "atc_codes": [
+            "N03AF01"
+        ]
+    },
+    {
+        "name": "Carbetocin",
+        "atc_codes": [
+            "H01BB03"
+        ]
+    },
+    {
+        "name": "Carbimazole",
+        "atc_codes": []
+    },
+    {
+        "name": "Carboplatin",
+        "atc_codes": [
+            "L01XA02"
+        ]
+    },
+    {
+        "name": "Carvedilol",
+        "atc_codes": []
+    },
+    {
+        "name": "Caspofungin",
+        "atc_codes": []
+    },
+    {
+        "name": "Cefalexin",
+        "atc_codes": [
+            "J01DB01"
+        ]
+    },
+    {
+        "name": "Cefazolin",
+        "atc_codes": [
+            "J01DB04"
+        ]
+    },
+    {
+        "name": "Cefiderocol",
+        "atc_codes": [
+            "J01DI04"
+        ]
+    },
+    {
+        "name": "Cefixime",
+        "atc_codes": [
+            "J01DD08"
+        ]
+    },
+    {
+        "name": "Cefotaxime",
+        "atc_codes": [
+            "J01DD01"
+        ]
+    },
+    {
+        "name": "Ceftazidime",
+        "atc_codes": [
+            "J01DD02"
+        ]
+    },
+    {
+        "name": "Ceftazidime + avibactam",
+        "atc_codes": [
+            "J01DD52"
+        ]
+    },
+    {
+        "name": "Ceftriaxone",
+        "atc_codes": [
+            "J01DD04"
+        ]
+    },
+    {
+        "name": "Cefuroxime",
+        "atc_codes": [
+            "J01DC02"
+        ]
+    },
+    {
+        "name": "Certolizumab pegol",
+        "atc_codes": []
+    },
+    {
+        "name": "Cetirizine",
+        "atc_codes": []
+    },
+    {
+        "name": "Chlorambucil",
+        "atc_codes": [
+            "L01AA02"
+        ]
+    },
+    {
+        "name": "Chloramphenicol",
+        "atc_codes": [
+            "J01BA01"
+        ]
+    },
+    {
+        "name": "Chlorhexidine",
+        "atc_codes": [
+            "D08AC02"
+        ]
+    },
+    {
+        "name": "Chlorine base compound",
+        "atc_codes": []
+    },
+    {
+        "name": "Chloroquine",
+        "atc_codes": [
+            "P01BA01"
+        ]
+    },
+    {
+        "name": "Chlorothiazide",
+        "atc_codes": []
+    },
+    {
+        "name": "Chloroxylenol",
+        "atc_codes": [
+            "D08AE05"
+        ]
+    },
+    {
+        "name": "Chlorpromazine",
+        "atc_codes": [
+            "N05AA01"
+        ]
+    },
+    {
+        "name": "Chlortalidone",
+        "atc_codes": []
+    },
+    {
+        "name": "Chlortetracycline",
+        "atc_codes": [
+            "J01AA03"
+        ]
+    },
+    {
+        "name": "Cholera vaccine",
+        "atc_codes": [
+            "J07AE01"
+        ]
+    },
+    {
+        "name": "Ciclesonide",
+        "atc_codes": []
+    },
+    {
+        "name": "Ciclosporin",
+        "atc_codes": [
+            "L04AD01"
+        ]
+    },
+    {
+        "name": "Ciprofloxacin",
+        "atc_codes": [
+            "S02AA15",
+            "J01MA02"
+        ]
+    },
+    {
+        "name": "Cisplatin",
+        "atc_codes": [
+            "L01XA01"
+        ]
+    },
+    {
+        "name": "Citalopram",
+        "atc_codes": []
+    },
+    {
+        "name": "Clarithromycin",
+        "atc_codes": [
+            "J01FA09"
+        ]
+    },
+    {
+        "name": "Clindamycin",
+        "atc_codes": [
+            "J01FF01"
+        ]
+    },
+    {
+        "name": "Clofazimine",
+        "atc_codes": [
+            "J04BA01"
+        ]
+    },
+    {
+        "name": "Clomifene",
+        "atc_codes": [
+            "G03GB02"
+        ]
+    },
+    {
+        "name": "Clomipramine",
+        "atc_codes": [
+            "N06AA04"
+        ]
+    },
+    {
+        "name": "Clopidogrel",
+        "atc_codes": [
+            "B01AC04"
+        ]
+    },
+    {
+        "name": "Clotrimazole",
+        "atc_codes": [
+            "G01AF02"
+        ]
+    },
+    {
+        "name": "Cloxacillin",
+        "atc_codes": [
+            "J01CF02"
+        ]
+    },
+    {
+        "name": "Clozapine",
+        "atc_codes": [
+            "N05AH02"
+        ]
+    },
+    {
+        "name": "Coagulation factor IX complex",
+        "atc_codes": [
+            "B02BD01"
+        ]
+    },
+    {
+        "name": "Coagulation factor VIII",
+        "atc_codes": [
+            "B02BD02"
+        ]
+    },
+    {
+        "name": "Coal tar",
+        "atc_codes": [
+            "D05AA"
+        ]
+    },
+    {
+        "name": "Codeine",
+        "atc_codes": [
+            "R05DA04"
+        ]
+    },
+    {
+        "name": "Colecalciferol",
+        "atc_codes": [
+            "A11CC05"
+        ]
+    },
+    {
+        "name": "Colistin (injection)",
+        "atc_codes": [
+            "J01XB01"
+        ]
+    },
+    {
+        "name": "Compound sodium lactate solution",
+        "atc_codes": []
+    },
+    {
+        "name": "Condoms",
+        "atc_codes": []
+    },
+    {
+        "name": "Copper-containing intrauterine device",
+        "atc_codes": [
+            "G02BA02"
+        ]
+    },
+    {
+        "name": "Cyclopentolate",
+        "atc_codes": []
+    },
+    {
+        "name": "Cyclophosphamide",
+        "atc_codes": [
+            "L01AA01"
+        ]
+    },
+    {
+        "name": "Cycloserine",
+        "atc_codes": [
+            "J04AB01"
+        ]
+    },
+    {
+        "name": "Cytarabine",
+        "atc_codes": [
+            "L01BC01"
+        ]
+    },
+    {
+        "name": "Dabigatran",
+        "atc_codes": [
+            "B01AE07"
+        ]
+    },
+    {
+        "name": "Dacarbazine",
+        "atc_codes": [
+            "L01AX04"
+        ]
+    },
+    {
+        "name": "Daclatasvir",
+        "atc_codes": [
+            "J05AP07"
+        ]
+    },
+    {
+        "name": "Daclatasvir + sofosbuvir",
+        "atc_codes": [
+            "J05AP07",
+            "J05AP08"
+        ]
+    },
+    {
+        "name": "Dactinomycin",
+        "atc_codes": [
+            "L01DA01"
+        ]
+    },
+    {
+        "name": "Dalteparin",
+        "atc_codes": []
+    },
+    {
+        "name": "Dapagliflozin",
+        "atc_codes": []
+    },
+    {
+        "name": "Dapsone",
+        "atc_codes": [
+            "J04BA02"
+        ]
+    },
+    {
+        "name": "Darbepoetin alfa",
+        "atc_codes": []
+    },
+    {
+        "name": "Darunavir",
+        "atc_codes": [
+            "J05AE10"
+        ]
+    },
+    {
+        "name": "Dasabuvir",
+        "atc_codes": [
+            "J05AX16"
+        ]
+    },
+    {
+        "name": "Dasatinib",
+        "atc_codes": [
+            "L01EA02"
+        ]
+    },
+    {
+        "name": "Daunorubicin",
+        "atc_codes": [
+            "L01DB02"
+        ]
+    },
+    {
+        "name": "Deferasirox",
+        "atc_codes": []
+    },
+    {
+        "name": "Deferoxamine",
+        "atc_codes": [
+            "V03AC01"
+        ]
+    },
+    {
+        "name": "Delamanid",
+        "atc_codes": [
+            "J04AK06"
+        ]
+    },
+    {
+        "name": "Dengue vaccine",
+        "atc_codes": []
+    },
+    {
+        "name": "Desmopressin",
+        "atc_codes": [
+            "H01BA02"
+        ]
+    },
+    {
+        "name": "Dexamethasone",
+        "atc_codes": [
+            "H02AB02",
+            "C05AA09",
+            "L01AA01"
+        ]
+    },
+    {
+        "name": "Dextran 70",
+        "atc_codes": [
+            "B05AA05"
+        ]
+    },
+    {
+        "name": "Diaphragms",
+        "atc_codes": []
+    },
+    {
+        "name": "Diazepam",
+        "atc_codes": [
+            "N05BA01"
+        ]
+    },
+    {
+        "name": "Diethylcarbamazine",
+        "atc_codes": [
+            "P02CB02"
+        ]
+    },
+    {
+        "name": "Digoxin",
+        "atc_codes": [
+            "C01AA05"
+        ]
+    },
+    {
+        "name": "Dihydroartemisinin + piperaquine phosphate",
+        "atc_codes": [
+            "P01BF05"
+        ]
+    },
+    {
+        "name": "Diloxanide",
+        "atc_codes": [
+            "P01AC01"
+        ]
+    },
+    {
+        "name": "Dimercaprol",
+        "atc_codes": [
+            "V03AB09"
+        ]
+    },
+    {
+        "name": "Diphtheria antitoxin",
+        "atc_codes": [
+            "J06AA01"
+        ]
+    },
+    {
+        "name": "Diphtheria vaccine",
+        "atc_codes": [
+            "J07AF01"
+        ]
+    },
+    {
+        "name": "Docetaxel",
+        "atc_codes": [
+            "L01CD02"
+        ]
+    },
+    {
+        "name": "Docusate sodium",
+        "atc_codes": [
+            "A06AA02"
+        ]
+    },
+    {
+        "name": "Dolasetron",
+        "atc_codes": []
+    },
+    {
+        "name": "Dolutegravir",
+        "atc_codes": [
+            "J05AJ03"
+        ]
+    },
+    {
+        "name": "Dolutegravir + lamivudine + tenofovir",
+        "atc_codes": [
+            "J05AR27"
+        ]
+    },
+    {
+        "name": "Dopamine",
+        "atc_codes": [
+            "C01CA04"
+        ]
+    },
+    {
+        "name": "Doxorubicin",
+        "atc_codes": [
+            "L01DB01",
+            "L01AA01"
+        ]
+    },
+    {
+        "name": "Doxycycline",
+        "atc_codes": [
+            "J01AA02"
+        ]
+    },
+    {
+        "name": "Edoxaban",
+        "atc_codes": []
+    },
+    {
+        "name": "Efavirenz",
+        "atc_codes": [
+            "J05AG03"
+        ]
+    },
+    {
+        "name": "Efavirenz + emtricitabine + tenofovir",
+        "atc_codes": [
+            "J05AR06"
+        ]
+    },
+    {
+        "name": "Efavirenz + lamivudine + tenofovir",
+        "atc_codes": [
+            "J05AR11"
+        ]
+    },
+    {
+        "name": "Eflornithine",
+        "atc_codes": [
+            "P01CX03"
+        ]
+    },
+    {
+        "name": "Empagliflozin",
+        "atc_codes": [
+            "A10BK03"
+        ]
+    },
+    {
+        "name": "Emtricitabine + tenofovir",
+        "atc_codes": [
+            "J05AR03"
+        ]
+    },
+    {
+        "name": "Enalapril",
+        "atc_codes": [
+            "C09AA02"
+        ]
+    },
+    {
+        "name": "Enoxaparin",
+        "atc_codes": [
+            "B01AB05"
+        ]
+    },
+    {
+        "name": "Entecavir",
+        "atc_codes": [
+            "J05AF10"
+        ]
+    },
+    {
+        "name": "Enzalutamide",
+        "atc_codes": [
+            "L02BB04"
+        ]
+    },
+    {
+        "name": "Ephedrine",
+        "atc_codes": [
+            "C01CA26"
+        ]
+    },
+    {
+        "name": "Epinephrine",
+        "atc_codes": [
+            "C01CA24",
+            "S01EA01",
+            "R03AA01"
+        ]
+    },
+    {
+        "name": "Epoetin alfa",
+        "atc_codes": []
+    },
+    {
+        "name": "Epoetin beta",
+        "atc_codes": []
+    },
+    {
+        "name": "Epoetin theta",
+        "atc_codes": []
+    },
+    {
+        "name": "Equine rabies immunoglobulin",
+        "atc_codes": [
+            "J06BB05"
+        ]
+    },
+    {
+        "name": "Ergocalciferol",
+        "atc_codes": [
+            "A11CC01"
+        ]
+    },
+    {
+        "name": "Ergometrine",
+        "atc_codes": [
+            "G02AB03"
+        ]
+    },
+    {
+        "name": "Erlotinib",
+        "atc_codes": [
+            "L01EB02"
+        ]
+    },
+    {
+        "name": "Erythromycin",
+        "atc_codes": [
+            "S01AA17",
+            "J01FA01"
+        ]
+    },
+    {
+        "name": "Erythropoiesis-stimulating agents",
+        "atc_codes": [
+            "B03XA03",
+            "B03XA01",
+            "B03XA02"
+        ]
+    },
+    {
+        "name": "Escitalopram",
+        "atc_codes": []
+    },
+    {
+        "name": "Estradiol cypionate + medroxyprogesterone acetate",
+        "atc_codes": [
+            "G03AA08"
+        ]
+    },
+    {
+        "name": "Etanercept",
+        "atc_codes": []
+    },
+    {
+        "name": "Ethambutol",
+        "atc_codes": [
+            "J04AK02"
+        ]
+    },
+    {
+        "name": "Ethambutol + isoniazid + pyrazinamide + rifampicin",
+        "atc_codes": [
+            "J04AM06"
+        ]
+    },
+    {
+        "name": "Ethambutol + isoniazid + rifampicin",
+        "atc_codes": [
+            "J04AK02",
+            "J04AC01",
+            "J04AB02"
+        ]
+    },
+    {
+        "name": "Ethanol",
+        "atc_codes": [
+            "D08AX08"
+        ]
+    },
+    {
+        "name": "Ethinylestradiol + etonogestrel",
+        "atc_codes": [
+            "G02BB01"
+        ]
+    },
+    {
+        "name": "Ethinylestradiol + levonorgestrel",
+        "atc_codes": [
+            "G03AA07"
+        ]
+    },
+    {
+        "name": "Ethinylestradiol + norethisterone",
+        "atc_codes": [
+            "G03AA05"
+        ]
+    },
+    {
+        "name": "Ethionamide",
+        "atc_codes": [
+            "J04AD03"
+        ]
+    },
+    {
+        "name": "Ethosuximide",
+        "atc_codes": [
+            "N03AD01"
+        ]
+    },
+    {
+        "name": "Etonogestrel-releasing implant",
+        "atc_codes": [
+            "G03AC08"
+        ]
+    },
+    {
+        "name": "Etoposide",
+        "atc_codes": [
+            "L01CB01"
+        ]
+    },
+    {
+        "name": "Everolimus",
+        "atc_codes": [
+            "L01EG02"
+        ]
+    },
+    {
+        "name": "Fentanyl",
+        "atc_codes": [
+            "N01AH01"
+        ]
+    },
+    {
+        "name": "Ferrous salt",
+        "atc_codes": [
+            "B03AA07",
+            "B03AA02"
+        ]
+    },
+    {
+        "name": "Ferrous salt + folic acid",
+        "atc_codes": [
+            "B03AD03",
+            "B03AD02"
+        ]
+    },
+    {
+        "name": "Fexinidazole",
+        "atc_codes": [
+            "P01CA03"
+        ]
+    },
+    {
+        "name": "Fexofenadine",
+        "atc_codes": []
+    },
+    {
+        "name": "Filgrastim",
+        "atc_codes": [
+            "L03AA02"
+        ]
+    },
+    {
+        "name": "Fluconazole",
+        "atc_codes": [
+            "J02AC01"
+        ]
+    },
+    {
+        "name": "Flucytosine",
+        "atc_codes": [
+            "J02AX01"
+        ]
+    },
+    {
+        "name": "Fludarabine",
+        "atc_codes": [
+            "L01BB05"
+        ]
+    },
+    {
+        "name": "Fludrocortisone",
+        "atc_codes": [
+            "H02AA02"
+        ]
+    },
+    {
+        "name": "Flunisolide",
+        "atc_codes": []
+    },
+    {
+        "name": "Fluorescein",
+        "atc_codes": [
+            "S01JA01"
+        ]
+    },
+    {
+        "name": "Fluoride",
+        "atc_codes": [
+            "A01AA01",
+            "A01AA04"
+        ]
+    },
+    {
+        "name": "Fluorouracil",
+        "atc_codes": [
+            "L01BC02"
+        ]
+    },
+    {
+        "name": "Fluoxetine",
+        "atc_codes": [
+            "N06AB03"
+        ]
+    },
+    {
+        "name": "Fluphenazine",
+        "atc_codes": [
+            "N05AB02"
+        ]
+    },
+    {
+        "name": "Flutamide",
+        "atc_codes": []
+    },
+    {
+        "name": "Fluticasone",
+        "atc_codes": []
+    },
+    {
+        "name": "Fluticasone + formoterol",
+        "atc_codes": []
+    },
+    {
+        "name": "Fluticasone furoate + vilanterol",
+        "atc_codes": []
+    },
+    {
+        "name": "Fluvastatin",
+        "atc_codes": []
+    },
+    {
+        "name": "Fluvoxamine",
+        "atc_codes": []
+    },
+    {
+        "name": "Folic acid",
+        "atc_codes": [
+            "B03BB01"
+        ]
+    },
+    {
+        "name": "Fomepizole",
+        "atc_codes": [
+            "V03AB34"
+        ]
+    },
+    {
+        "name": "Fosfomycin (injection)",
+        "atc_codes": [
+            "J01XX01"
+        ]
+    },
+    {
+        "name": "Fresh-frozen plasma",
+        "atc_codes": [
+            "B05AX03"
+        ]
+    },
+    {
+        "name": "Furosemide",
+        "atc_codes": [
+            "C03CA01"
+        ]
+    },
+    {
+        "name": "Gefitinib",
+        "atc_codes": []
+    },
+    {
+        "name": "Gemcitabine",
+        "atc_codes": [
+            "L01BC05"
+        ]
+    },
+    {
+        "name": "Gentamicin",
+        "atc_codes": [
+            "S02AA14",
+            "J01GB03"
+        ]
+    },
+    {
+        "name": "Glass ionomer cement",
+        "atc_codes": []
+    },
+    {
+        "name": "Glecaprevir + pibrentasvir",
+        "atc_codes": [
+            "J05AP57"
+        ]
+    },
+    {
+        "name": "Gliclazide",
+        "atc_codes": [
+            "A10BB09"
+        ]
+    },
+    {
+        "name": "Glucagon",
+        "atc_codes": [
+            "H04AA01"
+        ]
+    },
+    {
+        "name": "Glucose",
+        "atc_codes": [
+            "B05CX01"
+        ]
+    },
+    {
+        "name": "Glucose + sodium chloride",
+        "atc_codes": []
+    },
+    {
+        "name": "Glutaral",
+        "atc_codes": []
+    },
+    {
+        "name": "Glyceryl trinitrate",
+        "atc_codes": [
+            "C01DA02"
+        ]
+    },
+    {
+        "name": "Glycopyrronium",
+        "atc_codes": []
+    },
+    {
+        "name": "Golimumab",
+        "atc_codes": []
+    },
+    {
+        "name": "Goserelin",
+        "atc_codes": []
+    },
+    {
+        "name": "Granisetron",
+        "atc_codes": []
+    },
+    {
+        "name": "Griseofulvin",
+        "atc_codes": [
+            "D01BA01"
+        ]
+    },
+    {
+        "name": "Haemophilus influenzae type b vaccine",
+        "atc_codes": [
+            "J07AG01"
+        ]
+    },
+    {
+        "name": "Haloperidol",
+        "atc_codes": [
+            "N05AD01"
+        ]
+    },
+    {
+        "name": "Halothane",
+        "atc_codes": [
+            "N01AB01"
+        ]
+    },
+    {
+        "name": "Heparin sodium",
+        "atc_codes": [
+            "B01AB01"
+        ]
+    },
+    {
+        "name": "Hepatitis a vaccine",
+        "atc_codes": [
+            "J07BC02"
+        ]
+    },
+    {
+        "name": "Hepatitis b vaccine",
+        "atc_codes": [
+            "J07BC01"
+        ]
+    },
+    {
+        "name": "Homatropine",
+        "atc_codes": [
+            "S01FA05"
+        ]
+    },
+    {
+        "name": "Hpv vaccine",
+        "atc_codes": [
+            "J07BM01"
+        ]
+    },
+    {
+        "name": "Hydralazine",
+        "atc_codes": [
+            "C02DB02"
+        ]
+    },
+    {
+        "name": "Hydrochlorothiazide",
+        "atc_codes": [
+            "C03AA03"
+        ]
+    },
+    {
+        "name": "Hydrocortisone",
+        "atc_codes": [
+            "H02AB09",
+            "D07AA02",
+            "A07EA02",
+            "S01BA02"
+        ]
+    },
+    {
+        "name": "Hydromorphone",
+        "atc_codes": []
+    },
+    {
+        "name": "Hydroxocobalamin",
+        "atc_codes": [
+            "B03BA03"
+        ]
+    },
+    {
+        "name": "Hydroxycarbamide",
+        "atc_codes": [
+            "L01XX05"
+        ]
+    },
+    {
+        "name": "Hydroxychloroquine",
+        "atc_codes": [
+            "P01BA02"
+        ]
+    },
+    {
+        "name": "Hyoscine butylbromide",
+        "atc_codes": [
+            "A03BB01"
+        ]
+    },
+    {
+        "name": "Ibrutinib",
+        "atc_codes": [
+            "L01EL01"
+        ]
+    },
+    {
+        "name": "Ibuprofen",
+        "atc_codes": [
+            "M01AE01",
+            "C01EB16"
+        ]
+    },
+    {
+        "name": "Ifosfamide",
+        "atc_codes": [
+            "L01AA06"
+        ]
+    },
+    {
+        "name": "Imatinib",
+        "atc_codes": [
+            "L01EA01"
+        ]
+    },
+    {
+        "name": "Imipenem + cilastatin",
+        "atc_codes": [
+            "J01DH51"
+        ]
+    },
+    {
+        "name": "Indapamide",
+        "atc_codes": []
+    },
+    {
+        "name": "Infliximab",
+        "atc_codes": []
+    },
+    {
+        "name": "Influenza vaccine (seasonal)",
+        "atc_codes": [
+            "J07BB01",
+            "J07BB02",
+            "J07BB03"
+        ]
+    },
+    {
+        "name": "Insulin",
+        "atc_codes": [
+            "A10AC01"
+        ]
+    },
+    {
+        "name": "Insulin degludec",
+        "atc_codes": []
+    },
+    {
+        "name": "Insulin detemir",
+        "atc_codes": []
+    },
+    {
+        "name": "Insulin glargine",
+        "atc_codes": [
+            "A10AE04"
+        ]
+    },
+    {
+        "name": "Intermediate-acting insulin",
+        "atc_codes": [
+            "A10AC01"
+        ]
+    },
+    {
+        "name": "Intraperitoneal dialysis solution",
+        "atc_codes": []
+    },
+    {
+        "name": "Iodine",
+        "atc_codes": [
+            "H03CA"
+        ]
+    },
+    {
+        "name": "Iohexol",
+        "atc_codes": [
+            "V08AB02"
+        ]
+    },
+    {
+        "name": "Ipratropium bromide",
+        "atc_codes": [
+            "R03BB01"
+        ]
+    },
+    {
+        "name": "Irinotecan",
+        "atc_codes": [
+            "L01CE02"
+        ]
+    },
+    {
+        "name": "Isoflurane",
+        "atc_codes": [
+            "N01AB06"
+        ]
+    },
+    {
+        "name": "Isoniazid",
+        "atc_codes": [
+            "J04AC01"
+        ]
+    },
+    {
+        "name": "Isoniazid + pyridoxine + sulfamethoxazole + trimethoprim",
+        "atc_codes": [
+            "J04AC51"
+        ]
+    },
+    {
+        "name": "Isoniazid + rifampicin",
+        "atc_codes": [
+            "J04AM02"
+        ]
+    },
+    {
+        "name": "Isoniazid + rifapentine",
+        "atc_codes": [
+            "J04AC51"
+        ]
+    },
+    {
+        "name": "Isosorbide dinitrate",
+        "atc_codes": [
+            "C01DA08"
+        ]
+    },
+    {
+        "name": "Itraconazole",
+        "atc_codes": [
+            "J02AC02"
+        ]
+    },
+    {
+        "name": "Ivermectin",
+        "atc_codes": [
+            "P02CF01"
+        ]
+    },
+    {
+        "name": "Japanese encephalitis vaccine",
+        "atc_codes": [
+            "J07BA02",
+            "J07BA03"
+        ]
+    },
+    {
+        "name": "Kanamycin",
+        "atc_codes": []
+    },
+    {
+        "name": "Ketamine",
+        "atc_codes": [
+            "N01AX03"
+        ]
+    },
+    {
+        "name": "Lamivudine",
+        "atc_codes": [
+            "J05AF05"
+        ]
+    },
+    {
+        "name": "Lamivudine + tenofovir",
+        "atc_codes": []
+    },
+    {
+        "name": "Lamivudine + zidovudine",
+        "atc_codes": [
+            "J05AR01"
+        ]
+    },
+    {
+        "name": "Lamotrigine",
+        "atc_codes": [
+            "N03AX09"
+        ]
+    },
+    {
+        "name": "Latanoprost",
+        "atc_codes": [
+            "S01EE01"
+        ]
+    },
+    {
+        "name": "Ledipasvir + sofosbuvir",
+        "atc_codes": [
+            "J05AP51"
+        ]
+    },
+    {
+        "name": "Lenalidomide",
+        "atc_codes": [
+            "L04AX04"
+        ]
+    },
+    {
+        "name": "Leuprorelin",
+        "atc_codes": [
+            "L02AE02"
+        ]
+    },
+    {
+        "name": "Levamisole",
+        "atc_codes": [
+            "P02CE01"
+        ]
+    },
+    {
+        "name": "Levodopa + benserazide",
+        "atc_codes": []
+    },
+    {
+        "name": "Levodopa + carbidopa",
+        "atc_codes": [
+            "N04BA02"
+        ]
+    },
+    {
+        "name": "Levofloxacin",
+        "atc_codes": [
+            "J01MA12"
+        ]
+    },
+    {
+        "name": "Levonorgestrel",
+        "atc_codes": [
+            "G03AC03",
+            "G03AD01",
+            "G02BA03"
+        ]
+    },
+    {
+        "name": "Levonorgestrel-releasing implant",
+        "atc_codes": [
+            "G03AC03"
+        ]
+    },
+    {
+        "name": "Levothyroxine",
+        "atc_codes": [
+            "H03AA01"
+        ]
+    },
+    {
+        "name": "Lidocaine",
+        "atc_codes": [
+            "N01BB02",
+            "C01BB01"
+        ]
+    },
+    {
+        "name": "Lidocaine + epinephrine",
+        "atc_codes": [
+            "N01BB52"
+        ]
+    },
+    {
+        "name": "Linezolid",
+        "atc_codes": [
+            "J01XX08"
+        ]
+    },
+    {
+        "name": "Lisinopril + amlodipine",
+        "atc_codes": [
+            "C09BB03"
+        ]
+    },
+    {
+        "name": "Lisinopril + hydrochlorothiazide",
+        "atc_codes": [
+            "C09BA03"
+        ]
+    },
+    {
+        "name": "Lithium carbonate",
+        "atc_codes": [
+            "N05AN01"
+        ]
+    },
+    {
+        "name": "Long-acting insulin analogues",
+        "atc_codes": [
+            "A10AE06",
+            "A10AE05",
+            "A10AE04"
+        ]
+    },
+    {
+        "name": "Loperamide",
+        "atc_codes": [
+            "A07DA03"
+        ]
+    },
+    {
+        "name": "Lopinavir + ritonavir",
+        "atc_codes": [
+            "J05AR10"
+        ]
+    },
+    {
+        "name": "Loratadine",
+        "atc_codes": [
+            "R06AX13"
+        ]
+    },
+    {
+        "name": "Lorazepam",
+        "atc_codes": [
+            "N05BA06"
+        ]
+    },
+    {
+        "name": "Losartan",
+        "atc_codes": [
+            "C09CA01"
+        ]
+    },
+    {
+        "name": "Lovastatin",
+        "atc_codes": []
+    },
+    {
+        "name": "Magnesium sulfate",
+        "atc_codes": [
+            "B05XA05"
+        ]
+    },
+    {
+        "name": "Mannitol",
+        "atc_codes": [
+            "B05BC01"
+        ]
+    },
+    {
+        "name": "Measles vaccine",
+        "atc_codes": [
+            "J07BD01"
+        ]
+    },
+    {
+        "name": "Mebendazole",
+        "atc_codes": [
+            "P02CA01"
+        ]
+    },
+    {
+        "name": "Medroxyprogesterone acetate",
+        "atc_codes": [
+            "G03AC06",
+            "G03DA02"
+        ]
+    },
+    {
+        "name": "Mefloquine",
+        "atc_codes": [
+            "P01BC02"
+        ]
+    },
+    {
+        "name": "Meglumine antimoniate",
+        "atc_codes": [
+            "P01CB01"
+        ]
+    },
+    {
+        "name": "Meglumine iotroxate",
+        "atc_codes": [
+            "V08AC02"
+        ]
+    },
+    {
+        "name": "Melarsoprol",
+        "atc_codes": [
+            "P01CD01"
+        ]
+    },
+    {
+        "name": "Melphalan",
+        "atc_codes": [
+            "L01AA03"
+        ]
+    },
+    {
+        "name": "Meningococcal meningitis vaccine",
+        "atc_codes": [
+            "J07AH01",
+            "J07AH02",
+            "J07AH03",
+            "J07AH04",
+            "J07AH05",
+            "J07AH06",
+            "J07AH07",
+            "J07AH08",
+            "J07AH09",
+            "J07AH10"
+        ]
+    },
+    {
+        "name": "Mercaptopurine",
+        "atc_codes": [
+            "L01BB02"
+        ]
+    },
+    {
+        "name": "Meropenem",
+        "atc_codes": [
+            "J01DH02"
+        ]
+    },
+    {
+        "name": "Meropenem + vaborbactam",
+        "atc_codes": [
+            "J01DH52"
+        ]
+    },
+    {
+        "name": "Mesalazine",
+        "atc_codes": []
+    },
+    {
+        "name": "Mesna",
+        "atc_codes": [
+            "V03AF01"
+        ]
+    },
+    {
+        "name": "Metformin",
+        "atc_codes": [
+            "A10BA02"
+        ]
+    },
+    {
+        "name": "Methadone",
+        "atc_codes": [
+            "N07BC02"
+        ]
+    },
+    {
+        "name": "Methimazole",
+        "atc_codes": [
+            "H03BB02"
+        ]
+    },
+    {
+        "name": "Methotrexate",
+        "atc_codes": [
+            "L01BA01",
+            "L04AX03"
+        ]
+    },
+    {
+        "name": "Methoxy polyethylene glycol-epoetin beta",
+        "atc_codes": []
+    },
+    {
+        "name": "Methyldopa",
+        "atc_codes": [
+            "C02AB01"
+        ]
+    },
+    {
+        "name": "Methylergometrine",
+        "atc_codes": []
+    },
+    {
+        "name": "Methylprednisolone",
+        "atc_codes": [
+            "H02AB04"
+        ]
+    },
+    {
+        "name": "Methylthioninium chloride",
+        "atc_codes": [
+            "V03AB17"
+        ]
+    },
+    {
+        "name": "Metoclopramide",
+        "atc_codes": [
+            "A03FA01"
+        ]
+    },
+    {
+        "name": "Metoprolol",
+        "atc_codes": []
+    },
+    {
+        "name": "Metronidazole",
+        "atc_codes": [
+            "A01AB17",
+            "P01AB01",
+            "J01XD01"
+        ]
+    },
+    {
+        "name": "Micafungin",
+        "atc_codes": [
+            "J02AX05"
+        ]
+    },
+    {
+        "name": "Miconazole",
+        "atc_codes": [
+            "D01AC02"
+        ]
+    },
+    {
+        "name": "Midazolam",
+        "atc_codes": [
+            "N05CD08"
+        ]
+    },
+    {
+        "name": "Mifepristone - misoprostol",
+        "atc_codes": [
+            "G03XB01",
+            "G02AD06"
+        ]
+    },
+    {
+        "name": "Miltefosine",
+        "atc_codes": [
+            "P01CX04"
+        ]
+    },
+    {
+        "name": "Misoprostol",
+        "atc_codes": [
+            "G02AD06"
+        ]
+    },
+    {
+        "name": "Mometasone",
+        "atc_codes": []
+    },
+    {
+        "name": "Mometasone + formoterol",
+        "atc_codes": []
+    },
+    {
+        "name": "Morphine",
+        "atc_codes": [
+            "N02AA01"
+        ]
+    },
+    {
+        "name": "Moxifloxacin",
+        "atc_codes": [
+            "J01MA14"
+        ]
+    },
+    {
+        "name": "Multiple micronutrient supplement",
+        "atc_codes": [
+            "A11AA01"
+        ]
+    },
+    {
+        "name": "Mumps vaccine",
+        "atc_codes": [
+            "J07BE01"
+        ]
+    },
+    {
+        "name": "Mupirocin",
+        "atc_codes": [
+            "D06AX09"
+        ]
+    },
+    {
+        "name": "Nadroparin",
+        "atc_codes": []
+    },
+    {
+        "name": "Naloxone",
+        "atc_codes": [
+            "V03AB15"
+        ]
+    },
+    {
+        "name": "Natamycin",
+        "atc_codes": [
+            "S01AA10"
+        ]
+    },
+    {
+        "name": "Neostigmine",
+        "atc_codes": [
+            "N07AA01"
+        ]
+    },
+    {
+        "name": "Netilmicin",
+        "atc_codes": [
+            "J01GB07"
+        ]
+    },
+    {
+        "name": "Nevirapine",
+        "atc_codes": [
+            "J05AG01"
+        ]
+    },
+    {
+        "name": "Niclosamide",
+        "atc_codes": [
+            "P02DA01"
+        ]
+    },
+    {
+        "name": "Nicotinamide",
+        "atc_codes": [
+            "A11HA01"
+        ]
+    },
+    {
+        "name": "Nicotine replacement therapy",
+        "atc_codes": [
+            "N07BA01"
+        ]
+    },
+    {
+        "name": "Nifedipine",
+        "atc_codes": [
+            "C08CA05"
+        ]
+    },
+    {
+        "name": "Nifurtimox",
+        "atc_codes": [
+            "P01CC01"
+        ]
+    },
+    {
+        "name": "Nilotinib",
+        "atc_codes": [
+            "L01EA03"
+        ]
+    },
+    {
+        "name": "Nilutamide",
+        "atc_codes": []
+    },
+    {
+        "name": "Nitrofurantoin",
+        "atc_codes": [
+            "J01XE01"
+        ]
+    },
+    {
+        "name": "Nitrous oxide",
+        "atc_codes": [
+            "N01AX13"
+        ]
+    },
+    {
+        "name": "Nivolumab",
+        "atc_codes": [
+            "L01FF01"
+        ]
+    },
+    {
+        "name": "Norethisterone",
+        "atc_codes": [
+            "G03AC01",
+            "G03DC02"
+        ]
+    },
+    {
+        "name": "Norethisterone enantate",
+        "atc_codes": [
+            "G03AC01"
+        ]
+    },
+    {
+        "name": "Normal immunoglobulin",
+        "atc_codes": []
+    },
+    {
+        "name": "Nystatin",
+        "atc_codes": [
+            "A07AA02"
+        ]
+    },
+    {
+        "name": "Ofloxacin",
+        "atc_codes": [
+            "S01AE01",
+            "J01MA01"
+        ]
+    },
+    {
+        "name": "Ombitasvir + paritaprevir + ritonavir",
+        "atc_codes": [
+            "J05AP53"
+        ]
+    },
+    {
+        "name": "Omeprazole",
+        "atc_codes": [
+            "A02BC01"
+        ]
+    },
+    {
+        "name": "Ondansetron",
+        "atc_codes": [
+            "A04AA01"
+        ]
+    },
+    {
+        "name": "Oral rehydration salts",
+        "atc_codes": [
+            "A07CA"
+        ]
+    },
+    {
+        "name": "Oseltamivir",
+        "atc_codes": [
+            "J05AH02"
+        ]
+    },
+    {
+        "name": "Oxaliplatin",
+        "atc_codes": [
+            "L01XA03"
+        ]
+    },
+    {
+        "name": "Oxamniquine",
+        "atc_codes": [
+            "P02BA02"
+        ]
+    },
+    {
+        "name": "Oxycodone",
+        "atc_codes": []
+    },
+    {
+        "name": "Oxygen",
+        "atc_codes": [
+            "V03AN01"
+        ]
+    },
+    {
+        "name": "Oxytetracycline",
+        "atc_codes": [
+            "J01AA06"
+        ]
+    },
+    {
+        "name": "Oxytocin",
+        "atc_codes": [
+            "H01BB02"
+        ]
+    },
+    {
+        "name": "P-aminosalicylic acid",
+        "atc_codes": [
+            "J04AA01"
+        ]
+    },
+    {
+        "name": "Paclitaxel",
+        "atc_codes": [
+            "L01CD01"
+        ]
+    },
+    {
+        "name": "Paliperidone",
+        "atc_codes": [
+            "N05AX13"
+        ]
+    },
+    {
+        "name": "Palonosetron",
+        "atc_codes": []
+    },
+    {
+        "name": "Paracetamol",
+        "atc_codes": [
+            "N02BE01"
+        ]
+    },
+    {
+        "name": "Paromomycin",
+        "atc_codes": [
+            "A07AA06"
+        ]
+    },
+    {
+        "name": "Paroxetine",
+        "atc_codes": []
+    },
+    {
+        "name": "Pegaspargase",
+        "atc_codes": [
+            "L01XX24"
+        ]
+    },
+    {
+        "name": "Pegylated interferon alfa (2a)",
+        "atc_codes": [
+            "L03AB11"
+        ]
+    },
+    {
+        "name": "Pegylated interferon alfa (2b)",
+        "atc_codes": [
+            "L03AB10"
+        ]
+    },
+    {
+        "name": "Pembrolizumab",
+        "atc_codes": [
+            "L01FF02"
+        ]
+    },
+    {
+        "name": "Penicillamine",
+        "atc_codes": [
+            "M01CC01"
+        ]
+    },
+    {
+        "name": "Pentamidine",
+        "atc_codes": [
+            "P01CX01"
+        ]
+    },
+    {
+        "name": "Permethrin",
+        "atc_codes": [
+            "P03AC04"
+        ]
+    },
+    {
+        "name": "Pertussis vaccine",
+        "atc_codes": [
+            "J07AJ02"
+        ]
+    },
+    {
+        "name": "Phenobarbital",
+        "atc_codes": [
+            "N03AA02"
+        ]
+    },
+    {
+        "name": "Phenoxymethylpenicillin",
+        "atc_codes": [
+            "J01CE02"
+        ]
+    },
+    {
+        "name": "Phenytoin",
+        "atc_codes": [
+            "N03AB02"
+        ]
+    },
+    {
+        "name": "Phytomenadione",
+        "atc_codes": [
+            "B02BA01"
+        ]
+    },
+    {
+        "name": "Pilocarpine",
+        "atc_codes": [
+            "S01EB01"
+        ]
+    },
+    {
+        "name": "Piperacillin + tazobactam",
+        "atc_codes": [
+            "J01CR05"
+        ]
+    },
+    {
+        "name": "Platelets",
+        "atc_codes": [
+            "B05AX02"
+        ]
+    },
+    {
+        "name": "Plazomicin",
+        "atc_codes": [
+            "J01GB14"
+        ]
+    },
+    {
+        "name": "Pneumococcal vaccine",
+        "atc_codes": [
+            "J07AL01"
+        ]
+    },
+    {
+        "name": "Podophyllotoxin",
+        "atc_codes": []
+    },
+    {
+        "name": "Podophyllum resin",
+        "atc_codes": [
+            "D06BB04"
+        ]
+    },
+    {
+        "name": "Poliomyelitis vaccine",
+        "atc_codes": [
+            "J07BF01",
+            "J07BF02",
+            "J07BF03",
+            "J07BF04"
+        ]
+    },
+    {
+        "name": "Polygeline",
+        "atc_codes": []
+    },
+    {
+        "name": "Polymyxin B (injection)",
+        "atc_codes": [
+            "J01XB02"
+        ]
+    },
+    {
+        "name": "Potassium chloride",
+        "atc_codes": [
+            "A12BA01",
+            "B05XA01"
+        ]
+    },
+    {
+        "name": "Potassium ferric hexacyanoferrate",
+        "atc_codes": [
+            "V03AB31"
+        ]
+    },
+    {
+        "name": "Potassium iodide",
+        "atc_codes": [
+            "V03AB21"
+        ]
+    },
+    {
+        "name": "Potassium permanganate",
+        "atc_codes": [
+            "D08AX06"
+        ]
+    },
+    {
+        "name": "Povidone iodine",
+        "atc_codes": [
+            "D08AG02"
+        ]
+    },
+    {
+        "name": "Pravastatin",
+        "atc_codes": []
+    },
+    {
+        "name": "Praziquantel",
+        "atc_codes": [
+            "P02BA01"
+        ]
+    },
+    {
+        "name": "Precipitated sulfur",
+        "atc_codes": []
+    },
+    {
+        "name": "Prednisolone",
+        "atc_codes": [
+            "H02AB06",
+            "S01BA04",
+            "A07EA01"
+        ]
+    },
+    {
+        "name": "Prednisone",
+        "atc_codes": []
+    },
+    {
+        "name": "Primaquine",
+        "atc_codes": [
+            "P01BA03"
+        ]
+    },
+    {
+        "name": "Procaine benzylpenicillin",
+        "atc_codes": [
+            "J01CE09"
+        ]
+    },
+    {
+        "name": "Progesterone vaginal ring",
+        "atc_codes": [
+            "G03DA04"
+        ]
+    },
+    {
+        "name": "Proguanil",
+        "atc_codes": [
+            "P01BB01"
+        ]
+    },
+    {
+        "name": "Propanol",
+        "atc_codes": []
+    },
+    {
+        "name": "Propofol",
+        "atc_codes": [
+            "N01AX10"
+        ]
+    },
+    {
+        "name": "Propranolol",
+        "atc_codes": [
+            "C07AA05"
+        ]
+    },
+    {
+        "name": "Propylthiouracil",
+        "atc_codes": [
+            "H03BA02"
+        ]
+    },
+    {
+        "name": "Protamine sulfate",
+        "atc_codes": [
+            "V03AB14"
+        ]
+    },
+    {
+        "name": "Protionamide",
+        "atc_codes": []
+    },
+    {
+        "name": "Pyrantel",
+        "atc_codes": [
+            "P02CC01"
+        ]
+    },
+    {
+        "name": "Pyrazinamide",
+        "atc_codes": [
+            "J04AK01"
+        ]
+    },
+    {
+        "name": "Pyridostigmine",
+        "atc_codes": [
+            "N07AA02"
+        ]
+    },
+    {
+        "name": "Pyridoxine",
+        "atc_codes": [
+            "A11HA02"
+        ]
+    },
+    {
+        "name": "Pyrimethamine",
+        "atc_codes": [
+            "P01BD01"
+        ]
+    },
+    {
+        "name": "Quinine",
+        "atc_codes": [
+            "P01BC01"
+        ]
+    },
+    {
+        "name": "Rabies vaccine",
+        "atc_codes": [
+            "J07BG01"
+        ]
+    },
+    {
+        "name": "Raltegravir",
+        "atc_codes": [
+            "J05AJ01"
+        ]
+    },
+    {
+        "name": "Ranitidine",
+        "atc_codes": [
+            "A02BA02"
+        ]
+    },
+    {
+        "name": "Rasburicase",
+        "atc_codes": [
+            "V03AF07"
+        ]
+    },
+    {
+        "name": "Realgar-indigo naturalis formulation",
+        "atc_codes": []
+    },
+    {
+        "name": "Red blood cells",
+        "atc_codes": [
+            "B05AX01"
+        ]
+    },
+    {
+        "name": "Retinol",
+        "atc_codes": [
+            "A11CA01"
+        ]
+    },
+    {
+        "name": "Ribavirin",
+        "atc_codes": [
+            "J05AB04",
+            "J05AP01"
+        ]
+    },
+    {
+        "name": "Riboflavin",
+        "atc_codes": [
+            "A11HA04"
+        ]
+    },
+    {
+        "name": "Rifabutin",
+        "atc_codes": [
+            "J04AB04"
+        ]
+    },
+    {
+        "name": "Rifampicin",
+        "atc_codes": [
+            "J04AB02"
+        ]
+    },
+    {
+        "name": "Rifapentine",
+        "atc_codes": [
+            "J04AB05"
+        ]
+    },
+    {
+        "name": "Risperidone",
+        "atc_codes": [
+            "N05AX08"
+        ]
+    },
+    {
+        "name": "Ritonavir",
+        "atc_codes": [
+            "J05AE03"
+        ]
+    },
+    {
+        "name": "Rituximab",
+        "atc_codes": [
+            "L01FA01"
+        ]
+    },
+    {
+        "name": "Rivaroxaban",
+        "atc_codes": []
+    },
+    {
+        "name": "Rotavirus vaccine",
+        "atc_codes": [
+            "J07BH01",
+            "J07BH02"
+        ]
+    },
+    {
+        "name": "Rubella vaccine",
+        "atc_codes": [
+            "J07BJ01"
+        ]
+    },
+    {
+        "name": "Salbutamol",
+        "atc_codes": [
+            "R03AC02"
+        ]
+    },
+    {
+        "name": "Salicylic acid",
+        "atc_codes": [
+            "D01AE12"
+        ]
+    },
+    {
+        "name": "Selenium sulfide",
+        "atc_codes": [
+            "D01AE13"
+        ]
+    },
+    {
+        "name": "Senna",
+        "atc_codes": [
+            "A06AB06"
+        ]
+    },
+    {
+        "name": "Sertraline",
+        "atc_codes": []
+    },
+    {
+        "name": "Silver diamine fluoride",
+        "atc_codes": []
+    },
+    {
+        "name": "Silver sulfadiazine",
+        "atc_codes": [
+            "D06BA01"
+        ]
+    },
+    {
+        "name": "Simvastatin",
+        "atc_codes": [
+            "C10AA01"
+        ]
+    },
+    {
+        "name": "Sodium calcium edetate",
+        "atc_codes": [
+            "V03AB03"
+        ]
+    },
+    {
+        "name": "Sodium chloride",
+        "atc_codes": [
+            "B05XA03"
+        ]
+    },
+    {
+        "name": "Sodium hydrogen carbonate",
+        "atc_codes": [
+            "B05XA02"
+        ]
+    },
+    {
+        "name": "Sodium nitrite",
+        "atc_codes": [
+            "V03AB08"
+        ]
+    },
+    {
+        "name": "Sodium nitroprusside",
+        "atc_codes": [
+            "C02DD01"
+        ]
+    },
+    {
+        "name": "Sodium stibogluconate",
+        "atc_codes": [
+            "P01CB02"
+        ]
+    },
+    {
+        "name": "Sodium thiosulfate",
+        "atc_codes": [
+            "V03AB06"
+        ]
+    },
+    {
+        "name": "Sofosbuvir",
+        "atc_codes": [
+            "J05AP08"
+        ]
+    },
+    {
+        "name": "Sofosbuvir + velpatasvir",
+        "atc_codes": [
+            "J05AP55"
+        ]
+    },
+    {
+        "name": "Spectinomycin",
+        "atc_codes": [
+            "J01XX04"
+        ]
+    },
+    {
+        "name": "Spironolactone",
+        "atc_codes": [
+            "C03DA01"
+        ]
+    },
+    {
+        "name": "Streptokinase",
+        "atc_codes": [
+            "B01AD01"
+        ]
+    },
+    {
+        "name": "Streptomycin (injection)",
+        "atc_codes": [
+            "J01GA01"
+        ]
+    },
+    {
+        "name": "Succimer",
+        "atc_codes": []
+    },
+    {
+        "name": "Sulfadiazine",
+        "atc_codes": [
+            "J01EC02"
+        ]
+    },
+    {
+        "name": "Sulfadoxine + pyrimethamine",
+        "atc_codes": [
+            "P01BD51"
+        ]
+    },
+    {
+        "name": "Sulfamethoxazole + trimethoprim",
+        "atc_codes": [
+            "J01EE01"
+        ]
+    },
+    {
+        "name": "Sulfasalazine",
+        "atc_codes": [
+            "A07EC01"
+        ]
+    },
+    {
+        "name": "Sumatriptan",
+        "atc_codes": [
+            "N02CC01"
+        ]
+    },
+    {
+        "name": "Suramin sodium",
+        "atc_codes": [
+            "P01CX02"
+        ]
+    },
+    {
+        "name": "Suxamethonium",
+        "atc_codes": [
+            "M03AB01"
+        ]
+    },
+    {
+        "name": "Tacalcitol",
+        "atc_codes": []
+    },
+    {
+        "name": "Tacrolimus",
+        "atc_codes": [
+            "L04AD02"
+        ]
+    },
+    {
+        "name": "Tamoxifen",
+        "atc_codes": [
+            "L02BA01"
+        ]
+    },
+    {
+        "name": "Telmisartan + amlodipine",
+        "atc_codes": [
+            "C09DB04"
+        ]
+    },
+    {
+        "name": "Telmisartan + hydrochlorothiazide",
+        "atc_codes": [
+            "C09DA07"
+        ]
+    },
+    {
+        "name": "Tenofovir disoproxil fumarate",
+        "atc_codes": [
+            "J05AF07"
+        ]
+    },
+    {
+        "name": "Terbinafine",
+        "atc_codes": [
+            "D01AE15"
+        ]
+    },
+    {
+        "name": "Terbutaline",
+        "atc_codes": []
+    },
+    {
+        "name": "Terizidone",
+        "atc_codes": []
+    },
+    {
+        "name": "Testosterone",
+        "atc_codes": [
+            "G03BA03"
+        ]
+    },
+    {
+        "name": "Tetanus vaccine",
+        "atc_codes": [
+            "J07AM01"
+        ]
+    },
+    {
+        "name": "Tetracaine",
+        "atc_codes": [
+            "S01HA03"
+        ]
+    },
+    {
+        "name": "Tetracycline",
+        "atc_codes": [
+            "S01AA09",
+            "J01AA07"
+        ]
+    },
+    {
+        "name": "Thalidomide",
+        "atc_codes": [
+            "L04AX02"
+        ]
+    },
+    {
+        "name": "Thiamine",
+        "atc_codes": [
+            "A11DA01"
+        ]
+    },
+    {
+        "name": "Thiopental",
+        "atc_codes": []
+    },
+    {
+        "name": "Tick-borne encephalitis vaccine",
+        "atc_codes": [
+            "J07BA01"
+        ]
+    },
+    {
+        "name": "Timolol",
+        "atc_codes": [
+            "S01ED01"
+        ]
+    },
+    {
+        "name": "Tinidazole",
+        "atc_codes": []
+    },
+    {
+        "name": "Tiotropium bromide",
+        "atc_codes": [
+            "R03BB04"
+        ]
+    },
+    {
+        "name": "Tobramycin",
+        "atc_codes": [
+            "J01GA01",
+            "J01GB01"
+        ]
+    },
+    {
+        "name": "Torasemide",
+        "atc_codes": []
+    },
+    {
+        "name": "Tranexamic acid",
+        "atc_codes": [
+            "B02AA02"
+        ]
+    },
+    {
+        "name": "Trastuzumab",
+        "atc_codes": [
+            "L01FD01"
+        ]
+    },
+    {
+        "name": "Triclabendazole",
+        "atc_codes": [
+            "P02BX04"
+        ]
+    },
+    {
+        "name": "Trihexyphenidyl",
+        "atc_codes": [
+            "N04AA01"
+        ]
+    },
+    {
+        "name": "Trimethoprim",
+        "atc_codes": [
+            "J01EA01"
+        ]
+    },
+    {
+        "name": "Triptorelin",
+        "atc_codes": []
+    },
+    {
+        "name": "Tropicamide",
+        "atc_codes": [
+            "S01FA06"
+        ]
+    },
+    {
+        "name": "Tropisetron",
+        "atc_codes": []
+    },
+    {
+        "name": "Tuberculin, purified protein derivative",
+        "atc_codes": [
+            "V04CF01"
+        ]
+    },
+    {
+        "name": "Typhoid vaccine",
+        "atc_codes": [
+            "J07AP03"
+        ]
+    },
+    {
+        "name": "Ulipristal",
+        "atc_codes": [
+            "G03AD02"
+        ]
+    },
+    {
+        "name": "Umeclidinium",
+        "atc_codes": []
+    },
+    {
+        "name": "Urea",
+        "atc_codes": [
+            "D02AE01"
+        ]
+    },
+    {
+        "name": "Valaciclovir",
+        "atc_codes": []
+    },
+    {
+        "name": "Valganciclovir",
+        "atc_codes": [
+            "J05AB14"
+        ]
+    },
+    {
+        "name": "Valproic acid (sodium valproate)",
+        "atc_codes": [
+            "N03AG01"
+        ]
+    },
+    {
+        "name": "Vancomycin",
+        "atc_codes": [
+            "A07AA09",
+            "J01XA01"
+        ]
+    },
+    {
+        "name": "Varenicline",
+        "atc_codes": [
+            "N07BA03"
+        ]
+    },
+    {
+        "name": "Varicella vaccine",
+        "atc_codes": [
+            "J07BK01"
+        ]
+    },
+    {
+        "name": "Vecuronium",
+        "atc_codes": [
+            "M03AC03"
+        ]
+    },
+    {
+        "name": "Verapamil",
+        "atc_codes": [
+            "C08DA01"
+        ]
+    },
+    {
+        "name": "Vinblastine",
+        "atc_codes": [
+            "L01CA01"
+        ]
+    },
+    {
+        "name": "Vincristine",
+        "atc_codes": [
+            "L01CA02"
+        ]
+    },
+    {
+        "name": "Vinorelbine",
+        "atc_codes": [
+            "L01CA04"
+        ]
+    },
+    {
+        "name": "Voriconazole",
+        "atc_codes": [
+            "J02AC03"
+        ]
+    },
+    {
+        "name": "Warfarin",
+        "atc_codes": [
+            "B01AA03"
+        ]
+    },
+    {
+        "name": "Water for injection",
+        "atc_codes": []
+    },
+    {
+        "name": "Whole blood",
+        "atc_codes": []
+    },
+    {
+        "name": "Yellow fever vaccine",
+        "atc_codes": [
+            "J07BL01"
+        ]
+    },
+    {
+        "name": "Zidovudine",
+        "atc_codes": [
+            "J05AF01"
+        ]
+    },
+    {
+        "name": "Zinc sulfate",
+        "atc_codes": [
+            "A12CB01"
+        ]
+    },
+    {
+        "name": "Zoledronic acid",
+        "atc_codes": [
+            "M05BA08"
+        ]
+    },
+    {
+        "name": "Acetic acid",
+        "atc_codes": [
+            "S02AA10"
+        ]
+    },
+    {
+        "name": "Allopurinol",
+        "atc_codes": [
+            "M04AA01"
+        ]
+    },
+    {
+        "name": "Amikacin",
+        "atc_codes": [
+            "J01GB06"
+        ]
+    },
+    {
+        "name": "Amodiaquine + sulfadoxine + pyrimethamine",
+        "atc_codes": [
+            "P01BA06",
+            "P01BD51"
+        ]
+    },
+    {
+        "name": "Amoxicillin",
+        "atc_codes": [
+            "J01CA04"
+        ]
+    },
+    {
+        "name": "Ampicillin",
+        "atc_codes": [
+            "J01CA01"
+        ]
+    },
+    {
+        "name": "Azithromycin",
+        "atc_codes": [
+            "S01AA26",
+            "J01FA10"
+        ]
+    },
+    {
+        "name": "Benzathine benzylpenicillin",
+        "atc_codes": [
+            "J01CE08"
+        ]
+    },
+    {
+        "name": "Benzylpenicillin",
+        "atc_codes": [
+            "J01CE01"
+        ]
+    },
+    {
+        "name": "Budesonide",
+        "atc_codes": [
+            "R03BA02",
+            "R01AD05"
+        ]
+    },
+    {
+        "name": "Cefotaxime",
+        "atc_codes": [
+            "J01DD01"
+        ]
+    },
+    {
+        "name": "Ceftriaxone",
+        "atc_codes": [
+            "J01DD04"
+        ]
+    },
+    {
+        "name": "Ciprofloxacin",
+        "atc_codes": [
+            "S02AA15",
+            "J01MA02"
+        ]
+    },
+    {
+        "name": "Cloxacillin",
+        "atc_codes": [
+            "J01CF02"
+        ]
+    },
+    {
+        "name": "Colecalciferol",
+        "atc_codes": [
+            "A11CC05"
+        ]
+    },
+    {
+        "name": "Cyclizine",
+        "atc_codes": [
+            "R06AE03"
+        ]
+    },
+    {
+        "name": "Diazoxide",
+        "atc_codes": [
+            "V03AH01"
+        ]
+    },
+    {
+        "name": "Ergocalciferol",
+        "atc_codes": [
+            "A11CC01"
+        ]
+    },
+    {
+        "name": "Gentamicin",
+        "atc_codes": [
+            "S02AA14",
+            "J01GB03"
+        ]
+    },
+    {
+        "name": "Hyoscine hydrobromide",
+        "atc_codes": [
+            "A04AD01"
+        ]
+    },
+    {
+        "name": "Ibuprofen",
+        "atc_codes": [
+            "M01AE01",
+            "C01EB16"
+        ]
+    },
+    {
+        "name": "Isoniazid + pyrazinamide + rifampicin",
+        "atc_codes": [
+            "J04AM05"
+        ]
+    },
+    {
+        "name": "Lactulose",
+        "atc_codes": [
+            "A06AD11"
+        ]
+    },
+    {
+        "name": "Lugol's solution",
+        "atc_codes": [
+            "H03CA"
+        ]
+    },
+    {
+        "name": "Meropenem",
+        "atc_codes": [
+            "J01DH02"
+        ]
+    },
+    {
+        "name": "Methylprednisolone",
+        "atc_codes": [
+            "H02AB04"
+        ]
+    },
+    {
+        "name": "Multiple micronutrient powder",
+        "atc_codes": [
+            "A11AA01"
+        ]
+    },
+    {
+        "name": "Ofloxacin",
+        "atc_codes": [
+            "S01AE01",
+            "J01MA01"
+        ]
+    },
+    {
+        "name": "Oral rehydration salts - zinc sulfate",
+        "atc_codes": [
+            "A07CA"
+        ]
+    },
+    {
+        "name": "Pancreatic enzymes",
+        "atc_codes": [
+            "A09AA02"
+        ]
+    },
+    {
+        "name": "Procaine benzylpenicillin",
+        "atc_codes": [
+            "J01CE09"
+        ]
+    },
+    {
+        "name": "Procarbazine",
+        "atc_codes": [
+            "L01XB01"
+        ]
+    },
+    {
+        "name": "Sulfadoxine + pyrimethamine",
+        "atc_codes": [
+            "P01BD51"
+        ]
+    },
+    {
+        "name": "Tioguanine",
+        "atc_codes": [
+            "L01BB03"
+        ]
+    },
+    {
+        "name": "Xylometazoline",
+        "atc_codes": [
+            "R01AA07"
+        ]
+    },
+    {
+        "name": "Caffeine citrate",
+        "atc_codes": [
+            "N06BC01"
+        ]
+    },
+    {
+        "name": "Chlorhexidine",
+        "atc_codes": [
+            "D08AC02"
+        ]
+    },
+    {
+        "name": "Erythromycin",
+        "atc_codes": [
+            "S01AA17",
+            "J01FA01"
+        ]
+    },
+    {
+        "name": "Gentamicin",
+        "atc_codes": [
+            "S02AA14",
+            "J01GB03"
+        ]
+    },
+    {
+        "name": "Ibuprofen",
+        "atc_codes": [
+            "M01AE01",
+            "C01EB16"
+        ]
+    },
+    {
+        "name": "Indometacin",
+        "atc_codes": []
+    },
+    {
+        "name": "Phytomenadione",
+        "atc_codes": [
+            "B02BA01"
+        ]
+    },
+    {
+        "name": "Prostaglandin E1",
+        "atc_codes": [
+            "C01EA01"
+        ]
+    },
+    {
+        "name": "Prostaglandin E2",
+        "atc_codes": [
+            "G02AD02"
+        ]
+    },
+    {
+        "name": "Surfactant",
+        "atc_codes": [
+            "R07AA02"
+        ]
+    }
+]

@@ -87,108 +87,32 @@ lis = container[0].select("ol > li")
 # in the li tag, there is a h5 tag with class "medicine-name" and there is a <a> tag inside it. get the link
 
 # save this data to a json file
-with open("data_adult2.json", "w") as f:
+with open("adult_atc.json", "w") as f:
     for li in lis:
         link = li.select("h5 > a")[0]["href"]
         soup = BeautifulSoup(requests.get(link).text, "html.parser")
         # get the div with class "medicine-title"
         title = soup.select(".medicine-title")[0].text
         name = title.strip()
-        age = 'adult'
-        # get the div with class "header-data"
-        header_data = soup.select(".header-data")[0]
-        # get the first <a> tag inside header_data
-        atc_code = header_data.select("a")[0]
-        if 'www.whocc.no/atc_ddd_index' in atc_code['href']:
-            atc_code = atc_code.text.strip()
-        else:
-            atc_code = ''
-
         json_format = {
             "name": name,
-            "active_ingredient": "",
-            "age": age,
-            "atc_code": atc_code,
-            "sections": [],
-            "tags": []
+            "atc_codes": []
         }
+        # get the div with class "header-data"
+        header_data = soup.select(".header-data")[0]
+        # get all the <a> tag inside header_data
+        atc_code = header_data.select("a")
+        if len(atc_code) > 0:
+            for a in atc_code:
+                # check if "atc_ddd_index" in href:
+                href = a["href"]
+                if "atc_ddd_index" in href:
+                    # get the text of the <a> tag
+                    atc_code = a.text
+                    print(atc_code)
+                    json_format["atc_codes"].append(atc_code)
+
         
-        print(name, atc_code)
-
-        # get the div with class "section-container"
-        sections = soup.select(".section-container")
-        
-        # loop through all sections
-        for section in sections:
-            section_format = {
-                "name": "",
-                "formulations": [],
-                "indications": []
-            }
-            # get the div with class "section-name"
-            section_name = section.select(".section-name")[0].text.strip()
-            section_format["name"] = section_name
-            # get the div with class "formulations"
-            formulations = section.select(".formulations")
-            if formulations:
-                formulations = formulations[0]
-                # get all <li> tags inside formulations
-                formulations = formulations.select("li")
-                # loop through all <li> tags
-                for formulation in formulations:
-                    # get the text inside <li> tag
-                    formulation = formulation.text.strip()
-                    if ";" in formulation:
-                        formulation = formulation.split(";")
-                        before_clone = formulation[0].split(":")[0]
-                        is_first = True
-                        for f1 in formulation:
-                            if is_first:
-                                is_first = False
-                                f1 = f1.strip()
-                                # append it to the json_format
-                                section_format["formulations"].append(f1)
-                            else:
-                                f1 = f1.strip()
-                                # append it to the json_format
-                                section_format["formulations"].append(before_clone + ": " + f1)
-                    else:
-                        # append it to the json_format
-                        section_format["formulations"].append(formulation)
-
-            # get the div with class "antibiotic-choices"
-            indications = section.select(".antibiotic-choices")
-            if len(indications) > 0:
-                for indication in indications:
-                    indication_format = {
-                        "name": "",
-                        "choices": []
-                    }
-                    # get the <h6> tag inside indications
-                    indication_name = indication.select("h6")[0].text.strip()
-                    indication_format["name"] = indication_name
-                    # select all <span> tags inside indication which has no class
-                    spans = indication.select("span:not([class])")
-                    for span in spans:
-                        choise_format = {
-                            "name": "",
-                            "combination": ""
-                        }
-                        # check if the span child element has a class "combination-medicine"
-                        if span.select(".combination-medicine"):
-                            # get the text inside span
-                            choise_format["combination"] = span.select(".combination-medicine")[0].text.strip()
-                            choise_format["combination"] = re.sub(r'\s+', ' ', choise_format["combination"])
-
-                        choise_format["name"] = span.select(".indication-text")[0].text.strip()
-                        indication_format["choices"].append(choise_format)
-                    section_format["indications"].append(indication_format)
-            else:
-                indication_text = section.select(".indication-text")
-                if len(indication_text) > 0:
-                    for indication in indication_text:
-                        section_format["indications"].append(indication.text.strip())
-            json_format["sections"].append(section_format)
 
         # add the json_format to the json file
         f.write(json.dumps(json_format, indent=4))

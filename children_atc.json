@@ -1,0 +1,217 @@
+[{
+    "name": "Acetic acid",
+    "atc_codes": [
+        "S02AA10"
+    ]
+},
+{
+    "name": "Allopurinol",
+    "atc_codes": [
+        "M04AA01"
+    ]
+},
+{
+    "name": "Amikacin",
+    "atc_codes": [
+        "J01GB06"
+    ]
+},
+{
+    "name": "Amodiaquine + sulfadoxine + pyrimethamine",
+    "atc_codes": [
+        "P01BA06",
+        "P01BD51"
+    ]
+},
+{
+    "name": "Amoxicillin",
+    "atc_codes": [
+        "J01CA04"
+    ]
+},
+{
+    "name": "Ampicillin",
+    "atc_codes": [
+        "J01CA01"
+    ]
+},
+{
+    "name": "Azithromycin",
+    "atc_codes": [
+        "S01AA26",
+        "J01FA10"
+    ]
+},
+{
+    "name": "Benzathine benzylpenicillin",
+    "atc_codes": [
+        "J01CE08"
+    ]
+},
+{
+    "name": "Benzylpenicillin",
+    "atc_codes": [
+        "J01CE01"
+    ]
+},
+{
+    "name": "Budesonide",
+    "atc_codes": [
+        "R03BA02",
+        "R01AD05"
+    ]
+},
+{
+    "name": "Cefotaxime",
+    "atc_codes": [
+        "J01DD01"
+    ]
+},
+{
+    "name": "Ceftriaxone",
+    "atc_codes": [
+        "J01DD04"
+    ]
+},
+{
+    "name": "Ciprofloxacin",
+    "atc_codes": [
+        "S02AA15",
+        "J01MA02"
+    ]
+},
+{
+    "name": "Cloxacillin",
+    "atc_codes": [
+        "J01CF02"
+    ]
+},
+{
+    "name": "Colecalciferol",
+    "atc_codes": [
+        "A11CC05"
+    ]
+},
+{
+    "name": "Cyclizine",
+    "atc_codes": [
+        "R06AE03"
+    ]
+},
+{
+    "name": "Diazoxide",
+    "atc_codes": [
+        "V03AH01"
+    ]
+},
+{
+    "name": "Ergocalciferol",
+    "atc_codes": [
+        "A11CC01"
+    ]
+},
+{
+    "name": "Gentamicin",
+    "atc_codes": [
+        "S02AA14",
+        "J01GB03"
+    ]
+},
+{
+    "name": "Hyoscine hydrobromide",
+    "atc_codes": [
+        "A04AD01"
+    ]
+},
+{
+    "name": "Ibuprofen",
+    "atc_codes": [
+        "M01AE01",
+        "C01EB16"
+    ]
+},
+{
+    "name": "Isoniazid + pyrazinamide + rifampicin",
+    "atc_codes": [
+        "J04AM05"
+    ]
+},
+{
+    "name": "Lactulose",
+    "atc_codes": [
+        "A06AD11"
+    ]
+},
+{
+    "name": "Lugol's solution",
+    "atc_codes": [
+        "H03CA"
+    ]
+},
+{
+    "name": "Meropenem",
+    "atc_codes": [
+        "J01DH02"
+    ]
+},
+{
+    "name": "Methylprednisolone",
+    "atc_codes": [
+        "H02AB04"
+    ]
+},
+{
+    "name": "Multiple micronutrient powder",
+    "atc_codes": [
+        "A11AA01"
+    ]
+},
+{
+    "name": "Ofloxacin",
+    "atc_codes": [
+        "S01AE01",
+        "J01MA01"
+    ]
+},
+{
+    "name": "Oral rehydration salts - zinc sulfate",
+    "atc_codes": [
+        "A07CA"
+    ]
+},
+{
+    "name": "Pancreatic enzymes",
+    "atc_codes": [
+        "A09AA02"
+    ]
+},
+{
+    "name": "Procaine benzylpenicillin",
+    "atc_codes": [
+        "J01CE09"
+    ]
+},
+{
+    "name": "Procarbazine",
+    "atc_codes": [
+        "L01XB01"
+    ]
+},
+{
+    "name": "Sulfadoxine + pyrimethamine",
+    "atc_codes": [
+        "P01BD51"
+    ]
+},
+{
+    "name": "Tioguanine",
+    "atc_codes": [
+        "L01BB03"
+    ]
+},
+{
+    "name": "Xylometazoline",
+    "atc_codes": [
+        "R01AA07"
+    ]
+}]
