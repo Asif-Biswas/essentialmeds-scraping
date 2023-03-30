@@ -1,0 +1,43 @@
+[{
+    "name": "Amikacin",
+    "group": "access"
+},{
+    "name": "Amoxicillin",
+    "group": "access"
+},{
+    "name": "Ampicillin",
+    "group": "access"
+},{
+    "name": "Azithromycin",
+    "group": "watch"
+},{
+    "name": "Benzathine benzylpenicillin",
+    "group": "access"
+},{
+    "name": "Benzylpenicillin",
+    "group": "access"
+},{
+    "name": "Cefotaxime",
+    "group": "watch"
+},{
+    "name": "Ceftriaxone",
+    "group": "watch"
+},{
+    "name": "Ciprofloxacin",
+    "group": "watch"
+},{
+    "name": "Cloxacillin",
+    "group": "access"
+},{
+    "name": "Gentamicin",
+    "group": "access"
+},{
+    "name": "Meropenem",
+    "group": "watch"
+},{
+    "name": "Ofloxacin",
+    "group": "watch"
+},{
+    "name": "Procaine benzylpenicillin",
+    "group": "access"
+}]

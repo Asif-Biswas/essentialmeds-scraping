@@ -1,0 +1,2246 @@
+[
+    {
+        "name": "Abacavir",
+        "group": ""
+    },
+    {
+        "name": "Abacavir + lamivudine",
+        "group": ""
+    },
+    {
+        "name": "Abiraterone",
+        "group": ""
+    },
+    {
+        "name": "Acetazolamide",
+        "group": ""
+    },
+    {
+        "name": "Acetylcysteine",
+        "group": ""
+    },
+    {
+        "name": "Acetylsalicylic acid",
+        "group": ""
+    },
+    {
+        "name": "Aciclovir",
+        "group": ""
+    },
+    {
+        "name": "Aclidinium",
+        "group": ""
+    },
+    {
+        "name": "Activated charcoal",
+        "group": ""
+    },
+    {
+        "name": "Adalimumab",
+        "group": ""
+    },
+    {
+        "name": "Afatinib",
+        "group": ""
+    },
+    {
+        "name": "Albendazole",
+        "group": ""
+    },
+    {
+        "name": "Alcohol based hand rub",
+        "group": ""
+    },
+    {
+        "name": "All-trans retinoic acid",
+        "group": ""
+    },
+    {
+        "name": "Allopurinol",
+        "group": ""
+    },
+    {
+        "name": "Alteplase",
+        "group": ""
+    },
+    {
+        "name": "Amidotrizoate",
+        "group": ""
+    },
+    {
+        "name": "Amikacin",
+        "group": "access"
+    },
+    {
+        "name": "Amiloride",
+        "group": ""
+    },
+    {
+        "name": "Amiodarone",
+        "group": ""
+    },
+    {
+        "name": "Amitriptyline",
+        "group": ""
+    },
+    {
+        "name": "Amlodipine",
+        "group": ""
+    },
+    {
+        "name": "Amodiaquine",
+        "group": ""
+    },
+    {
+        "name": "Amoxicillin",
+        "group": "access"
+    },
+    {
+        "name": "Amoxicillin + clavulanic acid",
+        "group": "access"
+    },
+    {
+        "name": "Amphotericin B",
+        "group": ""
+    },
+    {
+        "name": "Ampicillin",
+        "group": "access"
+    },
+    {
+        "name": "Anastrozole",
+        "group": ""
+    },
+    {
+        "name": "Anidulafungin",
+        "group": ""
+    },
+    {
+        "name": "Anti-d immunoglobulin",
+        "group": ""
+    },
+    {
+        "name": "Anti-rabies immunoglobulin",
+        "group": ""
+    },
+    {
+        "name": "Anti-rabies virus monoclonal antibodies",
+        "group": ""
+    },
+    {
+        "name": "Anti-tetanus immunoglobulin",
+        "group": ""
+    },
+    {
+        "name": "Antivenom immunoglobulin",
+        "group": ""
+    },
+    {
+        "name": "Apixaban",
+        "group": ""
+    },
+    {
+        "name": "Aprepitant",
+        "group": ""
+    },
+    {
+        "name": "Arsenic trioxide",
+        "group": ""
+    },
+    {
+        "name": "Artemether",
+        "group": ""
+    },
+    {
+        "name": "Artemether + lumefantrine",
+        "group": ""
+    },
+    {
+        "name": "Artesunate",
+        "group": ""
+    },
+    {
+        "name": "Artesunate + amodiaquine",
+        "group": ""
+    },
+    {
+        "name": "Artesunate + mefloquine",
+        "group": ""
+    },
+    {
+        "name": "Artesunate + pyronaridine tetraphosphate",
+        "group": ""
+    },
+    {
+        "name": "Ascorbic acid",
+        "group": ""
+    },
+    {
+        "name": "Asparaginase",
+        "group": ""
+    },
+    {
+        "name": "Atazanavir + ritonavir",
+        "group": ""
+    },
+    {
+        "name": "Atenolol",
+        "group": ""
+    },
+    {
+        "name": "Atorvastatin",
+        "group": ""
+    },
+    {
+        "name": "Atracurium",
+        "group": ""
+    },
+    {
+        "name": "Atropine",
+        "group": ""
+    },
+    {
+        "name": "Azathioprine",
+        "group": ""
+    },
+    {
+        "name": "Azithromycin",
+        "group": "watch"
+    },
+    {
+        "name": "Barium sulfate",
+        "group": ""
+    },
+    {
+        "name": "Bcg vaccine",
+        "group": ""
+    },
+    {
+        "name": "Beclometasone",
+        "group": ""
+    },
+    {
+        "name": "Beclometasone + formoterol",
+        "group": ""
+    },
+    {
+        "name": "Bedaquiline",
+        "group": ""
+    },
+    {
+        "name": "Bendamustine",
+        "group": ""
+    },
+    {
+        "name": "Benzathine benzylpenicillin",
+        "group": "access"
+    },
+    {
+        "name": "Benznidazole",
+        "group": ""
+    },
+    {
+        "name": "Benzoyl peroxide",
+        "group": ""
+    },
+    {
+        "name": "Benzyl benzoate",
+        "group": ""
+    },
+    {
+        "name": "Benzylpenicillin",
+        "group": "access"
+    },
+    {
+        "name": "Betamethasone",
+        "group": ""
+    },
+    {
+        "name": "Bevacizumab",
+        "group": ""
+    },
+    {
+        "name": "Bicalutamide",
+        "group": ""
+    },
+    {
+        "name": "Biperiden",
+        "group": ""
+    },
+    {
+        "name": "Bisacodyl",
+        "group": ""
+    },
+    {
+        "name": "Bisoprolol",
+        "group": ""
+    },
+    {
+        "name": "Bleomycin",
+        "group": ""
+    },
+    {
+        "name": "Bortezomib",
+        "group": ""
+    },
+    {
+        "name": "Budesonide",
+        "group": ""
+    },
+    {
+        "name": "Budesonide + formoterol",
+        "group": ""
+    },
+    {
+        "name": "Budesonide + salmeterol",
+        "group": ""
+    },
+    {
+        "name": "Bumetanide",
+        "group": ""
+    },
+    {
+        "name": "Bupivacaine",
+        "group": ""
+    },
+    {
+        "name": "Buprenorphine",
+        "group": ""
+    },
+    {
+        "name": "Bupropion",
+        "group": ""
+    },
+    {
+        "name": "Calamine",
+        "group": ""
+    },
+    {
+        "name": "Calcipotriol",
+        "group": ""
+    },
+    {
+        "name": "Calcitriol",
+        "group": ""
+    },
+    {
+        "name": "Calcium",
+        "group": ""
+    },
+    {
+        "name": "Calcium folinate",
+        "group": ""
+    },
+    {
+        "name": "Calcium gluconate",
+        "group": ""
+    },
+    {
+        "name": "Canagliflozin",
+        "group": ""
+    },
+    {
+        "name": "Capecitabine",
+        "group": ""
+    },
+    {
+        "name": "Carbachol",
+        "group": ""
+    },
+    {
+        "name": "Carbamazepine",
+        "group": ""
+    },
+    {
+        "name": "Carbetocin",
+        "group": ""
+    },
+    {
+        "name": "Carbimazole",
+        "group": ""
+    },
+    {
+        "name": "Carboplatin",
+        "group": ""
+    },
+    {
+        "name": "Carvedilol",
+        "group": ""
+    },
+    {
+        "name": "Caspofungin",
+        "group": ""
+    },
+    {
+        "name": "Cefalexin",
+        "group": "access"
+    },
+    {
+        "name": "Cefazolin",
+        "group": "access"
+    },
+    {
+        "name": "Cefiderocol",
+        "group": "reserve"
+    },
+    {
+        "name": "Cefixime",
+        "group": "watch"
+    },
+    {
+        "name": "Cefotaxime",
+        "group": "watch"
+    },
+    {
+        "name": "Ceftazidime",
+        "group": "watch"
+    },
+    {
+        "name": "Ceftazidime + avibactam",
+        "group": "reserve"
+    },
+    {
+        "name": "Ceftriaxone",
+        "group": "watch"
+    },
+    {
+        "name": "Cefuroxime",
+        "group": "watch"
+    },
+    {
+        "name": "Certolizumab pegol",
+        "group": ""
+    },
+    {
+        "name": "Cetirizine",
+        "group": ""
+    },
+    {
+        "name": "Chlorambucil",
+        "group": ""
+    },
+    {
+        "name": "Chloramphenicol",
+        "group": "access"
+    },
+    {
+        "name": "Chlorhexidine",
+        "group": ""
+    },
+    {
+        "name": "Chlorine base compound",
+        "group": ""
+    },
+    {
+        "name": "Chloroquine",
+        "group": ""
+    },
+    {
+        "name": "Chlorothiazide",
+        "group": ""
+    },
+    {
+        "name": "Chloroxylenol",
+        "group": ""
+    },
+    {
+        "name": "Chlorpromazine",
+        "group": ""
+    },
+    {
+        "name": "Chlortalidone",
+        "group": ""
+    },
+    {
+        "name": "Chlortetracycline",
+        "group": "watch"
+    },
+    {
+        "name": "Cholera vaccine",
+        "group": ""
+    },
+    {
+        "name": "Ciclesonide",
+        "group": ""
+    },
+    {
+        "name": "Ciclosporin",
+        "group": ""
+    },
+    {
+        "name": "Ciprofloxacin",
+        "group": "watch"
+    },
+    {
+        "name": "Cisplatin",
+        "group": ""
+    },
+    {
+        "name": "Citalopram",
+        "group": ""
+    },
+    {
+        "name": "Clarithromycin",
+        "group": "watch"
+    },
+    {
+        "name": "Clindamycin",
+        "group": "access"
+    },
+    {
+        "name": "Clofazimine",
+        "group": ""
+    },
+    {
+        "name": "Clomifene",
+        "group": ""
+    },
+    {
+        "name": "Clomipramine",
+        "group": ""
+    },
+    {
+        "name": "Clopidogrel",
+        "group": ""
+    },
+    {
+        "name": "Clotrimazole",
+        "group": ""
+    },
+    {
+        "name": "Cloxacillin",
+        "group": "access"
+    },
+    {
+        "name": "Clozapine",
+        "group": ""
+    },
+    {
+        "name": "Coagulation factor IX complex",
+        "group": ""
+    },
+    {
+        "name": "Coagulation factor VIII",
+        "group": ""
+    },
+    {
+        "name": "Coal tar",
+        "group": ""
+    },
+    {
+        "name": "Codeine",
+        "group": ""
+    },
+    {
+        "name": "Colecalciferol",
+        "group": ""
+    },
+    {
+        "name": "Colistin (injection)",
+        "group": "reserve"
+    },
+    {
+        "name": "Compound sodium lactate solution",
+        "group": ""
+    },
+    {
+        "name": "Condoms",
+        "group": ""
+    },
+    {
+        "name": "Copper-containing intrauterine device",
+        "group": ""
+    },
+    {
+        "name": "Cyclopentolate",
+        "group": ""
+    },
+    {
+        "name": "Cyclophosphamide",
+        "group": ""
+    },
+    {
+        "name": "Cycloserine",
+        "group": ""
+    },
+    {
+        "name": "Cytarabine",
+        "group": ""
+    },
+    {
+        "name": "Dabigatran",
+        "group": ""
+    },
+    {
+        "name": "Dacarbazine",
+        "group": ""
+    },
+    {
+        "name": "Daclatasvir",
+        "group": ""
+    },
+    {
+        "name": "Daclatasvir + sofosbuvir",
+        "group": ""
+    },
+    {
+        "name": "Dactinomycin",
+        "group": ""
+    },
+    {
+        "name": "Dalteparin",
+        "group": ""
+    },
+    {
+        "name": "Dapagliflozin",
+        "group": ""
+    },
+    {
+        "name": "Dapsone",
+        "group": ""
+    },
+    {
+        "name": "Darbepoetin alfa",
+        "group": ""
+    },
+    {
+        "name": "Darunavir",
+        "group": ""
+    },
+    {
+        "name": "Dasabuvir",
+        "group": ""
+    },
+    {
+        "name": "Dasatinib",
+        "group": ""
+    },
+    {
+        "name": "Daunorubicin",
+        "group": ""
+    },
+    {
+        "name": "Deferasirox",
+        "group": ""
+    },
+    {
+        "name": "Deferoxamine",
+        "group": ""
+    },
+    {
+        "name": "Delamanid",
+        "group": ""
+    },
+    {
+        "name": "Dengue vaccine",
+        "group": ""
+    },
+    {
+        "name": "Desmopressin",
+        "group": ""
+    },
+    {
+        "name": "Dexamethasone",
+        "group": ""
+    },
+    {
+        "name": "Dextran 70",
+        "group": ""
+    },
+    {
+        "name": "Diaphragms",
+        "group": ""
+    },
+    {
+        "name": "Diazepam",
+        "group": ""
+    },
+    {
+        "name": "Diethylcarbamazine",
+        "group": ""
+    },
+    {
+        "name": "Digoxin",
+        "group": ""
+    },
+    {
+        "name": "Dihydroartemisinin + piperaquine phosphate",
+        "group": ""
+    },
+    {
+        "name": "Diloxanide",
+        "group": ""
+    },
+    {
+        "name": "Dimercaprol",
+        "group": ""
+    },
+    {
+        "name": "Diphtheria antitoxin",
+        "group": ""
+    },
+    {
+        "name": "Diphtheria vaccine",
+        "group": ""
+    },
+    {
+        "name": "Docetaxel",
+        "group": ""
+    },
+    {
+        "name": "Docusate sodium",
+        "group": ""
+    },
+    {
+        "name": "Dolasetron",
+        "group": ""
+    },
+    {
+        "name": "Dolutegravir",
+        "group": ""
+    },
+    {
+        "name": "Dolutegravir + lamivudine + tenofovir",
+        "group": ""
+    },
+    {
+        "name": "Dopamine",
+        "group": ""
+    },
+    {
+        "name": "Doxorubicin",
+        "group": ""
+    },
+    {
+        "name": "Doxycycline",
+        "group": "access"
+    },
+    {
+        "name": "Edoxaban",
+        "group": ""
+    },
+    {
+        "name": "Efavirenz",
+        "group": ""
+    },
+    {
+        "name": "Efavirenz + emtricitabine + tenofovir",
+        "group": ""
+    },
+    {
+        "name": "Efavirenz + lamivudine + tenofovir",
+        "group": ""
+    },
+    {
+        "name": "Eflornithine",
+        "group": ""
+    },
+    {
+        "name": "Empagliflozin",
+        "group": ""
+    },
+    {
+        "name": "Emtricitabine + tenofovir",
+        "group": ""
+    },
+    {
+        "name": "Enalapril",
+        "group": ""
+    },
+    {
+        "name": "Enoxaparin",
+        "group": ""
+    },
+    {
+        "name": "Entecavir",
+        "group": ""
+    },
+    {
+        "name": "Enzalutamide",
+        "group": ""
+    },
+    {
+        "name": "Ephedrine",
+        "group": ""
+    },
+    {
+        "name": "Epinephrine",
+        "group": ""
+    },
+    {
+        "name": "Epoetin alfa",
+        "group": ""
+    },
+    {
+        "name": "Epoetin beta",
+        "group": ""
+    },
+    {
+        "name": "Epoetin theta",
+        "group": ""
+    },
+    {
+        "name": "Equine rabies immunoglobulin",
+        "group": ""
+    },
+    {
+        "name": "Ergocalciferol",
+        "group": ""
+    },
+    {
+        "name": "Ergometrine",
+        "group": ""
+    },
+    {
+        "name": "Erlotinib",
+        "group": ""
+    },
+    {
+        "name": "Erythromycin",
+        "group": "watch"
+    },
+    {
+        "name": "Erythropoiesis-stimulating agents",
+        "group": ""
+    },
+    {
+        "name": "Escitalopram",
+        "group": ""
+    },
+    {
+        "name": "Estradiol cypionate + medroxyprogesterone acetate",
+        "group": ""
+    },
+    {
+        "name": "Etanercept",
+        "group": ""
+    },
+    {
+        "name": "Ethambutol",
+        "group": ""
+    },
+    {
+        "name": "Ethambutol + isoniazid + pyrazinamide + rifampicin",
+        "group": ""
+    },
+    {
+        "name": "Ethambutol + isoniazid + rifampicin",
+        "group": ""
+    },
+    {
+        "name": "Ethanol",
+        "group": ""
+    },
+    {
+        "name": "Ethinylestradiol + etonogestrel",
+        "group": ""
+    },
+    {
+        "name": "Ethinylestradiol + levonorgestrel",
+        "group": ""
+    },
+    {
+        "name": "Ethinylestradiol + norethisterone",
+        "group": ""
+    },
+    {
+        "name": "Ethionamide",
+        "group": ""
+    },
+    {
+        "name": "Ethosuximide",
+        "group": ""
+    },
+    {
+        "name": "Etonogestrel-releasing implant",
+        "group": ""
+    },
+    {
+        "name": "Etoposide",
+        "group": ""
+    },
+    {
+        "name": "Everolimus",
+        "group": ""
+    },
+    {
+        "name": "Fentanyl",
+        "group": ""
+    },
+    {
+        "name": "Ferrous salt",
+        "group": ""
+    },
+    {
+        "name": "Ferrous salt + folic acid",
+        "group": ""
+    },
+    {
+        "name": "Fexinidazole",
+        "group": ""
+    },
+    {
+        "name": "Fexofenadine",
+        "group": ""
+    },
+    {
+        "name": "Filgrastim",
+        "group": ""
+    },
+    {
+        "name": "Fluconazole",
+        "group": ""
+    },
+    {
+        "name": "Flucytosine",
+        "group": ""
+    },
+    {
+        "name": "Fludarabine",
+        "group": ""
+    },
+    {
+        "name": "Fludrocortisone",
+        "group": ""
+    },
+    {
+        "name": "Flunisolide",
+        "group": ""
+    },
+    {
+        "name": "Fluorescein",
+        "group": ""
+    },
+    {
+        "name": "Fluoride",
+        "group": ""
+    },
+    {
+        "name": "Fluorouracil",
+        "group": ""
+    },
+    {
+        "name": "Fluoxetine",
+        "group": ""
+    },
+    {
+        "name": "Fluphenazine",
+        "group": ""
+    },
+    {
+        "name": "Flutamide",
+        "group": ""
+    },
+    {
+        "name": "Fluticasone",
+        "group": ""
+    },
+    {
+        "name": "Fluticasone + formoterol",
+        "group": ""
+    },
+    {
+        "name": "Fluticasone furoate + vilanterol",
+        "group": ""
+    },
+    {
+        "name": "Fluvastatin",
+        "group": ""
+    },
+    {
+        "name": "Fluvoxamine",
+        "group": ""
+    },
+    {
+        "name": "Folic acid",
+        "group": ""
+    },
+    {
+        "name": "Fomepizole",
+        "group": ""
+    },
+    {
+        "name": "Fosfomycin (injection)",
+        "group": "reserve"
+    },
+    {
+        "name": "Fresh-frozen plasma",
+        "group": ""
+    },
+    {
+        "name": "Furosemide",
+        "group": ""
+    },
+    {
+        "name": "Gefitinib",
+        "group": ""
+    },
+    {
+        "name": "Gemcitabine",
+        "group": ""
+    },
+    {
+        "name": "Gentamicin",
+        "group": "access"
+    },
+    {
+        "name": "Glass ionomer cement",
+        "group": ""
+    },
+    {
+        "name": "Glecaprevir + pibrentasvir",
+        "group": ""
+    },
+    {
+        "name": "Gliclazide",
+        "group": ""
+    },
+    {
+        "name": "Glucagon",
+        "group": ""
+    },
+    {
+        "name": "Glucose",
+        "group": ""
+    },
+    {
+        "name": "Glucose + sodium chloride",
+        "group": ""
+    },
+    {
+        "name": "Glutaral",
+        "group": ""
+    },
+    {
+        "name": "Glyceryl trinitrate",
+        "group": ""
+    },
+    {
+        "name": "Glycopyrronium",
+        "group": ""
+    },
+    {
+        "name": "Golimumab",
+        "group": ""
+    },
+    {
+        "name": "Goserelin",
+        "group": ""
+    },
+    {
+        "name": "Granisetron",
+        "group": ""
+    },
+    {
+        "name": "Griseofulvin",
+        "group": ""
+    },
+    {
+        "name": "Haemophilus influenzae type b vaccine",
+        "group": ""
+    },
+    {
+        "name": "Haloperidol",
+        "group": ""
+    },
+    {
+        "name": "Halothane",
+        "group": ""
+    },
+    {
+        "name": "Heparin sodium",
+        "group": ""
+    },
+    {
+        "name": "Hepatitis a vaccine",
+        "group": ""
+    },
+    {
+        "name": "Hepatitis b vaccine",
+        "group": ""
+    },
+    {
+        "name": "Homatropine",
+        "group": ""
+    },
+    {
+        "name": "Hpv vaccine",
+        "group": ""
+    },
+    {
+        "name": "Hydralazine",
+        "group": ""
+    },
+    {
+        "name": "Hydrochlorothiazide",
+        "group": ""
+    },
+    {
+        "name": "Hydrocortisone",
+        "group": ""
+    },
+    {
+        "name": "Hydromorphone",
+        "group": ""
+    },
+    {
+        "name": "Hydroxocobalamin",
+        "group": ""
+    },
+    {
+        "name": "Hydroxycarbamide",
+        "group": ""
+    },
+    {
+        "name": "Hydroxychloroquine",
+        "group": ""
+    },
+    {
+        "name": "Hyoscine butylbromide",
+        "group": ""
+    },
+    {
+        "name": "Ibrutinib",
+        "group": ""
+    },
+    {
+        "name": "Ibuprofen",
+        "group": ""
+    },
+    {
+        "name": "Ifosfamide",
+        "group": ""
+    },
+    {
+        "name": "Imatinib",
+        "group": ""
+    },
+    {
+        "name": "Imipenem + cilastatin",
+        "group": "watch"
+    },
+    {
+        "name": "Indapamide",
+        "group": ""
+    },
+    {
+        "name": "Infliximab",
+        "group": ""
+    },
+    {
+        "name": "Influenza vaccine (seasonal)",
+        "group": ""
+    },
+    {
+        "name": "Insulin",
+        "group": ""
+    },
+    {
+        "name": "Insulin degludec",
+        "group": ""
+    },
+    {
+        "name": "Insulin detemir",
+        "group": ""
+    },
+    {
+        "name": "Insulin glargine",
+        "group": ""
+    },
+    {
+        "name": "Intermediate-acting insulin",
+        "group": ""
+    },
+    {
+        "name": "Intraperitoneal dialysis solution",
+        "group": ""
+    },
+    {
+        "name": "Iodine",
+        "group": ""
+    },
+    {
+        "name": "Iohexol",
+        "group": ""
+    },
+    {
+        "name": "Ipratropium bromide",
+        "group": ""
+    },
+    {
+        "name": "Irinotecan",
+        "group": ""
+    },
+    {
+        "name": "Isoflurane",
+        "group": ""
+    },
+    {
+        "name": "Isoniazid",
+        "group": ""
+    },
+    {
+        "name": "Isoniazid + pyridoxine + sulfamethoxazole + trimethoprim",
+        "group": ""
+    },
+    {
+        "name": "Isoniazid + rifampicin",
+        "group": ""
+    },
+    {
+        "name": "Isoniazid + rifapentine",
+        "group": ""
+    },
+    {
+        "name": "Isosorbide dinitrate",
+        "group": ""
+    },
+    {
+        "name": "Itraconazole",
+        "group": ""
+    },
+    {
+        "name": "Ivermectin",
+        "group": ""
+    },
+    {
+        "name": "Japanese encephalitis vaccine",
+        "group": ""
+    },
+    {
+        "name": "Kanamycin",
+        "group": "watch"
+    },
+    {
+        "name": "Ketamine",
+        "group": ""
+    },
+    {
+        "name": "Lamivudine",
+        "group": ""
+    },
+    {
+        "name": "Lamivudine + tenofovir",
+        "group": ""
+    },
+    {
+        "name": "Lamivudine + zidovudine",
+        "group": ""
+    },
+    {
+        "name": "Lamotrigine",
+        "group": ""
+    },
+    {
+        "name": "Latanoprost",
+        "group": ""
+    },
+    {
+        "name": "Ledipasvir + sofosbuvir",
+        "group": ""
+    },
+    {
+        "name": "Lenalidomide",
+        "group": ""
+    },
+    {
+        "name": "Leuprorelin",
+        "group": ""
+    },
+    {
+        "name": "Levamisole",
+        "group": ""
+    },
+    {
+        "name": "Levodopa + benserazide",
+        "group": ""
+    },
+    {
+        "name": "Levodopa + carbidopa",
+        "group": ""
+    },
+    {
+        "name": "Levofloxacin",
+        "group": "watch"
+    },
+    {
+        "name": "Levonorgestrel",
+        "group": ""
+    },
+    {
+        "name": "Levonorgestrel-releasing implant",
+        "group": ""
+    },
+    {
+        "name": "Levothyroxine",
+        "group": ""
+    },
+    {
+        "name": "Lidocaine",
+        "group": ""
+    },
+    {
+        "name": "Lidocaine + epinephrine",
+        "group": ""
+    },
+    {
+        "name": "Linezolid",
+        "group": "reserve"
+    },
+    {
+        "name": "Lisinopril + amlodipine",
+        "group": ""
+    },
+    {
+        "name": "Lisinopril + hydrochlorothiazide",
+        "group": ""
+    },
+    {
+        "name": "Lithium carbonate",
+        "group": ""
+    },
+    {
+        "name": "Long-acting insulin analogues",
+        "group": ""
+    },
+    {
+        "name": "Loperamide",
+        "group": ""
+    },
+    {
+        "name": "Lopinavir + ritonavir",
+        "group": ""
+    },
+    {
+        "name": "Loratadine",
+        "group": ""
+    },
+    {
+        "name": "Lorazepam",
+        "group": ""
+    },
+    {
+        "name": "Losartan",
+        "group": ""
+    },
+    {
+        "name": "Lovastatin",
+        "group": ""
+    },
+    {
+        "name": "Magnesium sulfate",
+        "group": ""
+    },
+    {
+        "name": "Mannitol",
+        "group": ""
+    },
+    {
+        "name": "Measles vaccine",
+        "group": ""
+    },
+    {
+        "name": "Mebendazole",
+        "group": ""
+    },
+    {
+        "name": "Medroxyprogesterone acetate",
+        "group": ""
+    },
+    {
+        "name": "Mefloquine",
+        "group": ""
+    },
+    {
+        "name": "Meglumine antimoniate",
+        "group": ""
+    },
+    {
+        "name": "Meglumine iotroxate",
+        "group": ""
+    },
+    {
+        "name": "Melarsoprol",
+        "group": ""
+    },
+    {
+        "name": "Melphalan",
+        "group": ""
+    },
+    {
+        "name": "Meningococcal meningitis vaccine",
+        "group": ""
+    },
+    {
+        "name": "Mercaptopurine",
+        "group": ""
+    },
+    {
+        "name": "Meropenem",
+        "group": "watch"
+    },
+    {
+        "name": "Meropenem + vaborbactam",
+        "group": "reserve"
+    },
+    {
+        "name": "Mesalazine",
+        "group": ""
+    },
+    {
+        "name": "Mesna",
+        "group": ""
+    },
+    {
+        "name": "Metformin",
+        "group": ""
+    },
+    {
+        "name": "Methadone",
+        "group": ""
+    },
+    {
+        "name": "Methimazole",
+        "group": ""
+    },
+    {
+        "name": "Methotrexate",
+        "group": ""
+    },
+    {
+        "name": "Methoxy polyethylene glycol-epoetin beta",
+        "group": ""
+    },
+    {
+        "name": "Methyldopa",
+        "group": ""
+    },
+    {
+        "name": "Methylergometrine",
+        "group": ""
+    },
+    {
+        "name": "Methylprednisolone",
+        "group": ""
+    },
+    {
+        "name": "Methylthioninium chloride",
+        "group": ""
+    },
+    {
+        "name": "Metoclopramide",
+        "group": ""
+    },
+    {
+        "name": "Metoprolol",
+        "group": ""
+    },
+    {
+        "name": "Metronidazole",
+        "group": "access"
+    },
+    {
+        "name": "Micafungin",
+        "group": ""
+    },
+    {
+        "name": "Miconazole",
+        "group": ""
+    },
+    {
+        "name": "Midazolam",
+        "group": ""
+    },
+    {
+        "name": "Mifepristone - misoprostol",
+        "group": ""
+    },
+    {
+        "name": "Miltefosine",
+        "group": ""
+    },
+    {
+        "name": "Misoprostol",
+        "group": ""
+    },
+    {
+        "name": "Mometasone",
+        "group": ""
+    },
+    {
+        "name": "Mometasone + formoterol",
+        "group": ""
+    },
+    {
+        "name": "Morphine",
+        "group": ""
+    },
+    {
+        "name": "Moxifloxacin",
+        "group": "watch"
+    },
+    {
+        "name": "Multiple micronutrient supplement",
+        "group": ""
+    },
+    {
+        "name": "Mumps vaccine",
+        "group": ""
+    },
+    {
+        "name": "Mupirocin",
+        "group": ""
+    },
+    {
+        "name": "Nadroparin",
+        "group": ""
+    },
+    {
+        "name": "Naloxone",
+        "group": ""
+    },
+    {
+        "name": "Natamycin",
+        "group": ""
+    },
+    {
+        "name": "Neostigmine",
+        "group": ""
+    },
+    {
+        "name": "Netilmicin",
+        "group": "watch"
+    },
+    {
+        "name": "Nevirapine",
+        "group": ""
+    },
+    {
+        "name": "Niclosamide",
+        "group": ""
+    },
+    {
+        "name": "Nicotinamide",
+        "group": ""
+    },
+    {
+        "name": "Nicotine replacement therapy",
+        "group": ""
+    },
+    {
+        "name": "Nifedipine",
+        "group": ""
+    },
+    {
+        "name": "Nifurtimox",
+        "group": ""
+    },
+    {
+        "name": "Nilotinib",
+        "group": ""
+    },
+    {
+        "name": "Nilutamide",
+        "group": ""
+    },
+    {
+        "name": "Nitrofurantoin",
+        "group": "access"
+    },
+    {
+        "name": "Nitrous oxide",
+        "group": ""
+    },
+    {
+        "name": "Nivolumab",
+        "group": ""
+    },
+    {
+        "name": "Norethisterone",
+        "group": ""
+    },
+    {
+        "name": "Norethisterone enantate",
+        "group": ""
+    },
+    {
+        "name": "Normal immunoglobulin",
+        "group": ""
+    },
+    {
+        "name": "Nystatin",
+        "group": ""
+    },
+    {
+        "name": "Ofloxacin",
+        "group": "watch"
+    },
+    {
+        "name": "Ombitasvir + paritaprevir + ritonavir",
+        "group": ""
+    },
+    {
+        "name": "Omeprazole",
+        "group": ""
+    },
+    {
+        "name": "Ondansetron",
+        "group": ""
+    },
+    {
+        "name": "Oral rehydration salts",
+        "group": ""
+    },
+    {
+        "name": "Oseltamivir",
+        "group": ""
+    },
+    {
+        "name": "Oxaliplatin",
+        "group": ""
+    },
+    {
+        "name": "Oxamniquine",
+        "group": ""
+    },
+    {
+        "name": "Oxycodone",
+        "group": ""
+    },
+    {
+        "name": "Oxygen",
+        "group": ""
+    },
+    {
+        "name": "Oxytetracycline",
+        "group": "watch"
+    },
+    {
+        "name": "Oxytocin",
+        "group": ""
+    },
+    {
+        "name": "P-aminosalicylic acid",
+        "group": ""
+    },
+    {
+        "name": "Paclitaxel",
+        "group": ""
+    },
+    {
+        "name": "Paliperidone",
+        "group": ""
+    },
+    {
+        "name": "Palonosetron",
+        "group": ""
+    },
+    {
+        "name": "Paracetamol",
+        "group": ""
+    },
+    {
+        "name": "Paromomycin",
+        "group": ""
+    },
+    {
+        "name": "Paroxetine",
+        "group": ""
+    },
+    {
+        "name": "Pegaspargase",
+        "group": ""
+    },
+    {
+        "name": "Pegylated interferon alfa (2a)",
+        "group": ""
+    },
+    {
+        "name": "Pegylated interferon alfa (2b)",
+        "group": ""
+    },
+    {
+        "name": "Pembrolizumab",
+        "group": ""
+    },
+    {
+        "name": "Penicillamine",
+        "group": ""
+    },
+    {
+        "name": "Pentamidine",
+        "group": ""
+    },
+    {
+        "name": "Permethrin",
+        "group": ""
+    },
+    {
+        "name": "Pertussis vaccine",
+        "group": ""
+    },
+    {
+        "name": "Phenobarbital",
+        "group": ""
+    },
+    {
+        "name": "Phenoxymethylpenicillin",
+        "group": "access"
+    },
+    {
+        "name": "Phenytoin",
+        "group": ""
+    },
+    {
+        "name": "Phytomenadione",
+        "group": ""
+    },
+    {
+        "name": "Pilocarpine",
+        "group": ""
+    },
+    {
+        "name": "Piperacillin + tazobactam",
+        "group": "watch"
+    },
+    {
+        "name": "Platelets",
+        "group": ""
+    },
+    {
+        "name": "Plazomicin",
+        "group": "reserve"
+    },
+    {
+        "name": "Pneumococcal vaccine",
+        "group": ""
+    },
+    {
+        "name": "Podophyllotoxin",
+        "group": ""
+    },
+    {
+        "name": "Podophyllum resin",
+        "group": ""
+    },
+    {
+        "name": "Poliomyelitis vaccine",
+        "group": ""
+    },
+    {
+        "name": "Polygeline",
+        "group": ""
+    },
+    {
+        "name": "Polymyxin B (injection)",
+        "group": "reserve"
+    },
+    {
+        "name": "Potassium chloride",
+        "group": ""
+    },
+    {
+        "name": "Potassium ferric hexacyanoferrate",
+        "group": ""
+    },
+    {
+        "name": "Potassium iodide",
+        "group": ""
+    },
+    {
+        "name": "Potassium permanganate",
+        "group": ""
+    },
+    {
+        "name": "Povidone iodine",
+        "group": ""
+    },
+    {
+        "name": "Pravastatin",
+        "group": ""
+    },
+    {
+        "name": "Praziquantel",
+        "group": ""
+    },
+    {
+        "name": "Precipitated sulfur",
+        "group": ""
+    },
+    {
+        "name": "Prednisolone",
+        "group": ""
+    },
+    {
+        "name": "Prednisone",
+        "group": ""
+    },
+    {
+        "name": "Primaquine",
+        "group": ""
+    },
+    {
+        "name": "Procaine benzylpenicillin",
+        "group": "access"
+    },
+    {
+        "name": "Progesterone vaginal ring",
+        "group": ""
+    },
+    {
+        "name": "Proguanil",
+        "group": ""
+    },
+    {
+        "name": "Propanol",
+        "group": ""
+    },
+    {
+        "name": "Propofol",
+        "group": ""
+    },
+    {
+        "name": "Propranolol",
+        "group": ""
+    },
+    {
+        "name": "Propylthiouracil",
+        "group": ""
+    },
+    {
+        "name": "Protamine sulfate",
+        "group": ""
+    },
+    {
+        "name": "Protionamide",
+        "group": ""
+    },
+    {
+        "name": "Pyrantel",
+        "group": ""
+    },
+    {
+        "name": "Pyrazinamide",
+        "group": ""
+    },
+    {
+        "name": "Pyridostigmine",
+        "group": ""
+    },
+    {
+        "name": "Pyridoxine",
+        "group": ""
+    },
+    {
+        "name": "Pyrimethamine",
+        "group": ""
+    },
+    {
+        "name": "Quinine",
+        "group": ""
+    },
+    {
+        "name": "Rabies vaccine",
+        "group": ""
+    },
+    {
+        "name": "Raltegravir",
+        "group": ""
+    },
+    {
+        "name": "Ranitidine",
+        "group": ""
+    },
+    {
+        "name": "Rasburicase",
+        "group": ""
+    },
+    {
+        "name": "Realgar-indigo naturalis formulation",
+        "group": ""
+    },
+    {
+        "name": "Red blood cells",
+        "group": ""
+    },
+    {
+        "name": "Retinol",
+        "group": ""
+    },
+    {
+        "name": "Ribavirin",
+        "group": ""
+    },
+    {
+        "name": "Riboflavin",
+        "group": ""
+    },
+    {
+        "name": "Rifabutin",
+        "group": "watch"
+    },
+    {
+        "name": "Rifampicin",
+        "group": "watch"
+    },
+    {
+        "name": "Rifapentine",
+        "group": ""
+    },
+    {
+        "name": "Risperidone",
+        "group": ""
+    },
+    {
+        "name": "Ritonavir",
+        "group": ""
+    },
+    {
+        "name": "Rituximab",
+        "group": ""
+    },
+    {
+        "name": "Rivaroxaban",
+        "group": ""
+    },
+    {
+        "name": "Rotavirus vaccine",
+        "group": ""
+    },
+    {
+        "name": "Rubella vaccine",
+        "group": ""
+    },
+    {
+        "name": "Salbutamol",
+        "group": ""
+    },
+    {
+        "name": "Salicylic acid",
+        "group": ""
+    },
+    {
+        "name": "Selenium sulfide",
+        "group": ""
+    },
+    {
+        "name": "Senna",
+        "group": ""
+    },
+    {
+        "name": "Sertraline",
+        "group": ""
+    },
+    {
+        "name": "Silver diamine fluoride",
+        "group": ""
+    },
+    {
+        "name": "Silver sulfadiazine",
+        "group": ""
+    },
+    {
+        "name": "Simvastatin",
+        "group": ""
+    },
+    {
+        "name": "Sodium calcium edetate",
+        "group": ""
+    },
+    {
+        "name": "Sodium chloride",
+        "group": ""
+    },
+    {
+        "name": "Sodium hydrogen carbonate",
+        "group": ""
+    },
+    {
+        "name": "Sodium nitrite",
+        "group": ""
+    },
+    {
+        "name": "Sodium nitroprusside",
+        "group": ""
+    },
+    {
+        "name": "Sodium stibogluconate",
+        "group": ""
+    },
+    {
+        "name": "Sodium thiosulfate",
+        "group": ""
+    },
+    {
+        "name": "Sofosbuvir",
+        "group": ""
+    },
+    {
+        "name": "Sofosbuvir + velpatasvir",
+        "group": ""
+    },
+    {
+        "name": "Spectinomycin",
+        "group": "access"
+    },
+    {
+        "name": "Spironolactone",
+        "group": ""
+    },
+    {
+        "name": "Streptokinase",
+        "group": ""
+    },
+    {
+        "name": "Streptomycin (injection)",
+        "group": "watch"
+    },
+    {
+        "name": "Succimer",
+        "group": ""
+    },
+    {
+        "name": "Sulfadiazine",
+        "group": "access"
+    },
+    {
+        "name": "Sulfadoxine + pyrimethamine",
+        "group": ""
+    },
+    {
+        "name": "Sulfamethoxazole + trimethoprim",
+        "group": "access"
+    },
+    {
+        "name": "Sulfasalazine",
+        "group": ""
+    },
+    {
+        "name": "Sumatriptan",
+        "group": ""
+    },
+    {
+        "name": "Suramin sodium",
+        "group": ""
+    },
+    {
+        "name": "Suxamethonium",
+        "group": ""
+    },
+    {
+        "name": "Tacalcitol",
+        "group": ""
+    },
+    {
+        "name": "Tacrolimus",
+        "group": ""
+    },
+    {
+        "name": "Tamoxifen",
+        "group": ""
+    },
+    {
+        "name": "Telmisartan + amlodipine",
+        "group": ""
+    },
+    {
+        "name": "Telmisartan + hydrochlorothiazide",
+        "group": ""
+    },
+    {
+        "name": "Tenofovir disoproxil fumarate",
+        "group": ""
+    },
+    {
+        "name": "Terbinafine",
+        "group": ""
+    },
+    {
+        "name": "Terbutaline",
+        "group": ""
+    },
+    {
+        "name": "Terizidone",
+        "group": ""
+    },
+    {
+        "name": "Testosterone",
+        "group": ""
+    },
+    {
+        "name": "Tetanus vaccine",
+        "group": ""
+    },
+    {
+        "name": "Tetracaine",
+        "group": ""
+    },
+    {
+        "name": "Tetracycline",
+        "group": "access"
+    },
+    {
+        "name": "Thalidomide",
+        "group": ""
+    },
+    {
+        "name": "Thiamine",
+        "group": ""
+    },
+    {
+        "name": "Thiopental",
+        "group": ""
+    },
+    {
+        "name": "Tick-borne encephalitis vaccine",
+        "group": ""
+    },
+    {
+        "name": "Timolol",
+        "group": ""
+    },
+    {
+        "name": "Tinidazole",
+        "group": ""
+    },
+    {
+        "name": "Tiotropium bromide",
+        "group": ""
+    },
+    {
+        "name": "Tobramycin",
+        "group": "watch"
+    },
+    {
+        "name": "Torasemide",
+        "group": ""
+    },
+    {
+        "name": "Tranexamic acid",
+        "group": ""
+    },
+    {
+        "name": "Trastuzumab",
+        "group": ""
+    },
+    {
+        "name": "Triclabendazole",
+        "group": ""
+    },
+    {
+        "name": "Trihexyphenidyl",
+        "group": ""
+    },
+    {
+        "name": "Trimethoprim",
+        "group": "access"
+    },
+    {
+        "name": "Triptorelin",
+        "group": ""
+    },
+    {
+        "name": "Tropicamide",
+        "group": ""
+    },
+    {
+        "name": "Tropisetron",
+        "group": ""
+    },
+    {
+        "name": "Tuberculin, purified protein derivative",
+        "group": ""
+    },
+    {
+        "name": "Typhoid vaccine",
+        "group": ""
+    },
+    {
+        "name": "Ulipristal",
+        "group": ""
+    },
+    {
+        "name": "Umeclidinium",
+        "group": ""
+    },
+    {
+        "name": "Urea",
+        "group": ""
+    },
+    {
+        "name": "Valaciclovir",
+        "group": ""
+    },
+    {
+        "name": "Valganciclovir",
+        "group": ""
+    },
+    {
+        "name": "Valproic acid (sodium valproate)",
+        "group": ""
+    },
+    {
+        "name": "Vancomycin",
+        "group": "watch"
+    },
+    {
+        "name": "Varenicline",
+        "group": ""
+    },
+    {
+        "name": "Varicella vaccine",
+        "group": ""
+    },
+    {
+        "name": "Vecuronium",
+        "group": ""
+    },
+    {
+        "name": "Verapamil",
+        "group": ""
+    },
+    {
+        "name": "Vinblastine",
+        "group": ""
+    },
+    {
+        "name": "Vincristine",
+        "group": ""
+    },
+    {
+        "name": "Vinorelbine",
+        "group": ""
+    },
+    {
+        "name": "Voriconazole",
+        "group": ""
+    },
+    {
+        "name": "Warfarin",
+        "group": ""
+    },
+    {
+        "name": "Water for injection",
+        "group": ""
+    },
+    {
+        "name": "Whole blood",
+        "group": ""
+    },
+    {
+        "name": "Yellow fever vaccine",
+        "group": ""
+    },
+    {
+        "name": "Zidovudine",
+        "group": ""
+    },
+    {
+        "name": "Zinc sulfate",
+        "group": ""
+    },
+    {
+        "name": "Zoledronic acid",
+        "group": ""
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "name": "Amikacin",
+        "group": "access"
+    },
+    {
+        "name": "Amoxicillin",
+        "group": "access"
+    },
+    {
+        "name": "Amoxicillin + clavulanic acid",
+        "group": "access"
+    },
+    {
+        "name": "Ampicillin",
+        "group": "access"
+    },
+    {
+        "name": "Azithromycin",
+        "group": "watch"
+    },
+    {
+        "name": "Benzathine benzylpenicillin",
+        "group": "access"
+    },
+    {
+        "name": "Benzylpenicillin",
+        "group": "access"
+    },
+    {
+        "name": "Cefalexin",
+        "group": "access"
+    },
+    {
+        "name": "Cefazolin",
+        "group": "access"
+    },
+    {
+        "name": "Cefiderocol",
+        "group": "reserve"
+    },
+    {
+        "name": "Cefixime",
+        "group": "watch"
+    },
+    {
+        "name": "Cefotaxime",
+        "group": "watch"
+    },
+    {
+        "name": "Ceftazidime",
+        "group": "watch"
+    },
+    {
+        "name": "Ceftazidime + avibactam",
+        "group": "reserve"
+    },
+    {
+        "name": "Ceftriaxone",
+        "group": "watch"
+    },
+    {
+        "name": "Cefuroxime",
+        "group": "watch"
+    },
+    {
+        "name": "Chloramphenicol",
+        "group": "access"
+    },
+    {
+        "name": "Chlortetracycline",
+        "group": "watch"
+    },
+    {
+        "name": "Ciprofloxacin",
+        "group": "watch"
+    },
+    {
+        "name": "Clarithromycin",
+        "group": "watch"
+    },
+    {
+        "name": "Clindamycin",
+        "group": "access"
+    },
+    {
+        "name": "Cloxacillin",
+        "group": "access"
+    },
+    {
+        "name": "Colistin (injection)",
+        "group": "reserve"
+    },
+    {
+        "name": "Doxycycline",
+        "group": "access"
+    },
+    {
+        "name": "Erythromycin",
+        "group": "watch"
+    },
+    {
+        "name": "Fosfomycin (injection)",
+        "group": "reserve"
+    },
+    {
+        "name": "Gentamicin",
+        "group": "access"
+    },
+    {
+        "name": "Imipenem + cilastatin",
+        "group": "watch"
+    },
+    {
+        "name": "Kanamycin",
+        "group": "watch"
+    },
+    {
+        "name": "Levofloxacin",
+        "group": "watch"
+    },
+    {
+        "name": "Linezolid",
+        "group": "reserve"
+    },
+    {
+        "name": "Meropenem",
+        "group": "watch"
+    },
+    {
+        "name": "Meropenem + vaborbactam",
+        "group": "reserve"
+    },
+    {
+        "name": "Metronidazole",
+        "group": "access"
+    },
+    {
+        "name": "Moxifloxacin",
+        "group": "watch"
+    },
+    {
+        "name": "Netilmicin",
+        "group": "watch"
+    },
+    {
+        "name": "Nitrofurantoin",
+        "group": "access"
+    },
+    {
+        "name": "Ofloxacin",
+        "group": "watch"
+    },
+    {
+        "name": "Oxytetracycline",
+        "group": "watch"
+    },
+    {
+        "name": "Phenoxymethylpenicillin",
+        "group": "access"
+    },
+    {
+        "name": "Piperacillin + tazobactam",
+        "group": "watch"
+    },
+    {
+        "name": "Plazomicin",
+        "group": "reserve"
+    },
+    {
+        "name": "Polymyxin B (injection)",
+        "group": "reserve"
+    },
+    {
+        "name": "Procaine benzylpenicillin",
+        "group": "access"
+    },
+    {
+        "name": "Rifabutin",
+        "group": "watch"
+    },
+    {
+        "name": "Rifampicin",
+        "group": "watch"
+    },
+    {
+        "name": "Spectinomycin",
+        "group": "access"
+    },
+    {
+        "name": "Streptomycin (injection)",
+        "group": "watch"
+    },
+    {
+        "name": "Sulfadiazine",
+        "group": "access"
+    },
+    {
+        "name": "Sulfamethoxazole + trimethoprim",
+        "group": "access"
+    },
+    {
+        "name": "Tetracycline",
+        "group": "access"
+    },
+    {
+        "name": "Tobramycin",
+        "group": "watch"
+    },
+    {
+        "name": "Trimethoprim",
+        "group": "access"
+    },
+    {
+        "name": "Vancomycin",
+        "group": "watch"
+    },
+    {
+        "name": "Amikacin",
+        "group": "access"
+    },
+    {
+        "name": "Amoxicillin",
+        "group": "access"
+    },
+    {
+        "name": "Ampicillin",
+        "group": "access"
+    },
+    {
+        "name": "Azithromycin",
+        "group": "watch"
+    },
+    {
+        "name": "Benzathine benzylpenicillin",
+        "group": "access"
+    },
+    {
+        "name": "Benzylpenicillin",
+        "group": "access"
+    },
+    {
+        "name": "Cefotaxime",
+        "group": "watch"
+    },
+    {
+        "name": "Ceftriaxone",
+        "group": "watch"
+    },
+    {
+        "name": "Ciprofloxacin",
+        "group": "watch"
+    },
+    {
+        "name": "Cloxacillin",
+        "group": "access"
+    },
+    {
+        "name": "Gentamicin",
+        "group": "access"
+    },
+    {
+        "name": "Meropenem",
+        "group": "watch"
+    },
+    {
+        "name": "Ofloxacin",
+        "group": "watch"
+    },
+    {
+        "name": "Procaine benzylpenicillin",
+        "group": "access"
+    },
+    {
+        "name": "Erythromycin",
+        "group": "watch"
+    },
+    {
+        "name": "Gentamicin",
+        "group": "access"
+    }
+]

@@ -1,0 +1,706 @@
+[{
+    "name": "Acetic acid",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "S02AA10",
+    "formulation": [
+        "Local > Otological > drops: 2% in alcohol"
+    ],
+    "indications": [
+        "Infectious diseases of external ear"
+    ],
+    "tags": []
+},
+{
+    "name": "Allopurinol",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "M04AA01",
+    "formulation": [
+        "Oral > Solid: 100 mg; 300 mg"
+    ],
+    "indications": [
+        "Tumour lysis syndrome",
+        "Gout"
+    ],
+    "tags": []
+},
+{
+    "name": "Amikacin",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "J01GB06",
+    "formulation": [
+        "Parenteral > General injections > unspecified: 250 mg per  mL in 2 mL vial (as sulfate)"
+    ],
+    "indications": [
+        {
+            "name": "First choice",
+            "choices": [
+                "Neutropenia (high-risk)",
+                "Inflammatory and other diseases of prostate (severe)",
+                "Acute pyelonephritis (severe)",
+                "Inflammatory and other diseases of prostate (severe)",
+                "Acute pyelonephritis (severe)"
+            ]
+        },
+        {
+            "name": "Second choice",
+            "choices": [
+                "Sepsis without septic shock"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Amodiaquine + sulfadoxine + pyrimethamine",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "P01BA06",
+    "formulation": [
+        "Oral > Solid: 76.5 mg (as hydrochloride) [3] + 250 mg + 12.5 mg [1] dispersible tablets in co-package; 153 mg (as hydrochloride) [3] + 500 mg + 25 mg [1] dispersible tablets in co-package"
+    ],
+    "indications": [
+        "Malaria"
+    ],
+    "tags": []
+},
+{
+    "name": "Amoxicillin",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "J01CA04",
+    "formulation": [
+        "Oral > Liquid: 125 mg per 5 mL (anhydrous) powder for oral liquid; 250 mg per 5 mL (anhydrous) powder for oral liquid",
+        "Oral > Solid: 250 mg (anhydrous) capsule or tablet; 500 mg (anhydrous) capsule or tablet",
+        "Oral > Liquid: 125 mg per 5 mL (as trihydrate) powder for oral liquid; 250 mg per 5 mL (as trihydrate) powder for oral liquid",
+        "Oral > Solid: 250 mg (as trihydrate); 500 mg (as trihydrate)",
+        "Parenteral > General injections > unspecified: 250 mg in vial (as sodium) powder for injection; 500 mg in vial (as sodium) powder for injection; 1 g in vial (as sodium) powder for injection",
+        "Oral > Solid: 250 mg (as trihydrate); 500 mg (as trihydrate); 1 g (as trihydrate)"
+    ],
+    "indications": [
+        {
+            "name": "First choice",
+            "choices": [
+                "Acute sinusitis",
+                "Bacterial pneumonia (Community-acquired pneumonia - mild to moderate)",
+                "Periapical abscess without sinus",
+                "Acute otitis media",
+                "Chronic obstructive pulmonary disease with acute exacerbation",
+                "Acute pharyngitis",
+                "Acute malnutrition in infants, children or adolescents (complicated) [children]",
+                "Acute malnutrition in infants, children or adolescents (uncomplicated) [children]",
+                "Sepsis without septic shock",
+                "Bacterial pneumonia (Community-acquired pneumonia - severe) [children]"
+            ]
+        },
+        {
+            "name": "Second choice",
+            "choices": [
+                "Bacterial meningitis"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Ampicillin",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "J01CA01",
+    "formulation": [
+        "Oral > Liquid: 125 mg per 5 mL (anhydrous) powder for oral suspension",
+        "Oral > Solid: 250 mg (anhydrous); 500 mg (anhydrous)",
+        "Parenteral > General injections > unspecified: 500 mg in vial (as sodium salt) powder for injection; 1 g in vial (as sodium salt) powder for injection"
+    ],
+    "indications": [
+        {
+            "name": "First choice",
+            "choices": [
+                "Peritoneal abscess (mild-moderate)",
+                "Peritoneal abscess (severe)",
+                "Peritonitis (severe)",
+                "Peritonitis (mild-moderate)",
+                "Sepsis without septic shock",
+                "Bacterial pneumonia (Community-acquired pneumonia - severe) [children]",
+                "Acute malnutrition in infants, children or adolescents (complicated) [children]"
+            ]
+        },
+        {
+            "name": "Second choice",
+            "choices": [
+                "Bacterial meningitis"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Azithromycin",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "S01AA26",
+    "formulation": [
+        "Local > Ophthalmological > Solution (eye drops): 1.5% eye drops"
+    ],
+    "indications": [
+        {
+            "name": "First choice",
+            "choices": [
+                "Typhoid fever",
+                "Paratyphoid fever",
+                "Trachoma",
+                "Cholera [children]",
+                "Chlamydia trachomatis",
+                "Cholera",
+                "Yaws",
+                "Gonococcal infection"
+            ]
+        },
+        {
+            "name": "Second choice",
+            "choices": [
+                "Infectious gastroenteritis or colitis without specification of infectious agent",
+                "Gonococcal infection"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Benzathine benzylpenicillin",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "J01CE08",
+    "formulation": [
+        "Parenteral > General injections > IM: 900 mg in vial benzylpenicillin powder for injection (= 1.2 million IU); 1.44 g in vial benzylpenicillin powder for injection (= 2.4 million IU)"
+    ],
+    "indications": [
+        {
+            "name": "First choice",
+            "choices": [
+                "Congenital syphilis [children]",
+                "Syphilis"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Benzylpenicillin",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "J01CE01",
+    "formulation": [
+        "Parenteral > General injections > unspecified: 600 mg in vial powder for injection (=1 million IU as sodium or potassium salt); 3 g in vial powder for injection (=5 million IU as sodium or potassium salt)",
+        "Parenteral > General injections > unspecified: 600 mg in vial powder for injection (= 1 million IU as sodium or potassium salt); 3 g in vial powder for injection (= 5 million IU as sodium or potassium salt)"
+    ],
+    "indications": [
+        {
+            "name": "First choice",
+            "choices": [
+                "Congenital syphilis [children]",
+                "Syphilis",
+                "Bacterial pneumonia (Community-acquired pneumonia - severe) [children]",
+                "Sepsis without septic shock",
+                "Acute malnutrition in infants, children or adolescents (complicated) [children]"
+            ]
+        },
+        {
+            "name": "Second choice",
+            "choices": [
+                "Bacterial meningitis"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Budesonide",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "R03BA02",
+    "formulation": [
+        "Respiratory > Inhalation > aerosol: 100 \u00b5g per  dose; 200 \u00b5g per  dose"
+    ],
+    "indications": [
+        "Asthma",
+        "Allergic rhinitis"
+    ],
+    "tags": []
+},
+{
+    "name": "Cefotaxime",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "J01DD01",
+    "formulation": [
+        "Parenteral > General injections > unspecified: 250 mg in vial powder for injection (as sodium salt)"
+    ],
+    "indications": [
+        {
+            "name": "First choice",
+            "choices": [
+                "Other specified pneumonia (Hospital-acquired pneumonia)",
+                "Bacterial meningitis",
+                "Bacterial pneumonia (Community-acquired pneumonia - severe) [children]",
+                "Acute pyelonephritis (severe)",
+                "Inflammatory and other diseases of prostate (severe)",
+                "Bacterial pneumonia (Community-acquired pneumonia - severe)",
+                "Peritoneal abscess (severe)",
+                "Peritoneal abscess (mild-moderate)",
+                "Peritonitis (mild-moderate)",
+                "Peritonitis (severe)"
+            ]
+        },
+        {
+            "name": "Second choice",
+            "choices": [
+                "Inflammatory and other diseases of prostate (mild to moderate)",
+                "Acute pyelonephritis (mild to moderate)",
+                "Sepsis without septic shock",
+                "Bacterial infection of joint",
+                "Osteomyelitis or osteitis"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Ceftriaxone",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "J01DD04",
+    "formulation": [
+        "Parenteral > General injections > unspecified: 250 mg in vial powder for injection (as sodium salt); 1 g in vial powder for injection (as sodium salt)",
+        "Parenteral > General injections > unspecified: 250 mg in vial powder for injection (as sodium salt); 1 g in vial powder for injection (as sodium salt); 2 g in vial powder for injection (as sodium salt)",
+        "Parenteral > General injections > IV: 250 mg in vial powder for injection (as sodium salt); 1 g in vial powder for injection (as sodium salt); 2 g in vial powder for injection (as sodium salt)"
+    ],
+    "indications": [
+        {
+            "name": "First choice",
+            "choices": [
+                "Bacterial pneumonia (Community-acquired pneumonia - severe) [children]",
+                "Typhoid fever",
+                "Bacterial meningitis",
+                "Other specified pneumonia (Hospital-acquired pneumonia)",
+                "Paratyphoid fever",
+                "Inflammatory and other diseases of prostate (severe)",
+                "Acute pyelonephritis (severe)",
+                "Gonococcal infection",
+                "Bacterial pneumonia (Community-acquired pneumonia - severe)",
+                "Necrotising fasciitis",
+                "Peritonitis (mild-moderate)",
+                "Peritoneal abscess (severe)",
+                "Peritoneal abscess (mild-moderate)",
+                "Peritonitis (severe)",
+                "Endophthalmitis"
+            ]
+        },
+        {
+            "name": "Second choice",
+            "choices": [
+                "Acute pyelonephritis (mild to moderate)",
+                "Inflammatory and other diseases of prostate (mild to moderate)",
+                "Sepsis without septic shock",
+                "Bacterial infection of joint",
+                "Osteomyelitis or osteitis",
+                "Infectious gastroenteritis or colitis without specification of infectious agent"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Ciprofloxacin",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "S02AA15",
+    "formulation": [
+        "Local > Otological > drops: 0.3% (as hydrochloride)"
+    ],
+    "indications": [
+        {
+            "name": "First choice",
+            "choices": [
+                "Typhoid fever",
+                "Paratyphoid fever",
+                "Inflammatory and other diseases of prostate (mild to moderate)",
+                "Acute pyelonephritis (mild to moderate)",
+                "Neutropenia (low-risk)",
+                "Infectious gastroenteritis or colitis without specification of infectious agent"
+            ]
+        },
+        {
+            "name": "Second choice",
+            "choices": [
+                "Cholera",
+                "Cholera [children]",
+                "Peritoneal abscess (mild-moderate)",
+                "Peritonitis (mild-moderate)"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Cloxacillin",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "J01CF02",
+    "formulation": [
+        "Oral > Liquid: 125 mg per 5 mL (as sodium salt) powder for oral liquid",
+        "Oral > Solid: 500 mg (as sodium salt) capsule; 1 g (as sodium salt) capsule",
+        "Parenteral > General injections > unspecified: 500 mg in vial (as sodium salt) powder for injection"
+    ],
+    "indications": [
+        {
+            "name": "First choice",
+            "choices": [
+                "Bacterial cellulitis, erysipelas or lymphangitis",
+                "Bacterial infection of joint",
+                "Osteomyelitis or osteitis"
+            ]
+        },
+        {
+            "name": "Second choice",
+            "choices": [
+                "Sepsis without septic shock"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Colecalciferol",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "A11CC05",
+    "formulation": [
+        "Oral > Liquid: 400 IU per  mL",
+        "Oral > Solid: 400 IU; 1000 IU"
+    ],
+    "indications": [
+        "Vitamin D deficiency",
+        "Calcium deficiency"
+    ],
+    "tags": []
+},
+{
+    "name": "Cyclizine",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "R06AE03",
+    "formulation": [
+        "Oral > Solid: 50 mg tablet",
+        "Parenteral > General injections > unspecified: 50 mg per  mL"
+    ],
+    "indications": [
+        "Palliative care"
+    ],
+    "tags": []
+},
+{
+    "name": "Diazoxide",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "V03AH01",
+    "formulation": [
+        "Oral > Liquid: 50 mg per  mL",
+        "Oral > Solid: 50 mg"
+    ],
+    "indications": [
+        "Persistent hyperinsulinaemic hypoglycaemia of infancy"
+    ],
+    "tags": []
+},
+{
+    "name": "Ergocalciferol",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "A11CC01",
+    "formulation": [
+        "Oral > Liquid: 250 \u00b5g per  mL (10 000 IU per mL)",
+        "Oral > Solid: 1.25 mg (50 000 IU)"
+    ],
+    "indications": [
+        "Vitamin D deficiency",
+        "Calcium deficiency"
+    ],
+    "tags": []
+},
+{
+    "name": "Gentamicin",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "S02AA14",
+    "formulation": [
+        "Local > Ophthalmological > Solution (eye drops): 0.3% (gentamicin sulfate)"
+    ],
+    "indications": [
+        {
+            "name": "First choice",
+            "choices": [
+                "Neonatal meningitis",
+                "Bacterial pneumonia (Community-acquired pneumonia - severe) [children]",
+                "Sepsis without septic shock",
+                "Peritonitis (mild-moderate)",
+                "Peritoneal abscess (mild-moderate)",
+                "Peritoneal abscess (severe)",
+                "Acute malnutrition in infants, children or adolescents (complicated) [children]",
+                "Sepsis without septic shock",
+                "Peritonitis (severe)",
+                "Bacterial pneumonia (Community-acquired pneumonia - severe) [children]",
+                "Bacterial pneumonia (Community-acquired pneumonia - severe) [children]",
+                "Sepsis without septic shock",
+                "Acute malnutrition in infants, children or adolescents (complicated) [children]"
+            ]
+        },
+        {
+            "name": "Second choice",
+            "choices": [
+                "Other specified prophylactic measures",
+                "Gonococcal infection"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Hyoscine hydrobromide",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "A04AD01",
+    "formulation": [
+        "Local > Topical > Transdermal patch: 1 mg per 72 hours transdermal patch",
+        "Parenteral > General injections > unspecified: 400 \u00b5g per  mL injection; 600 \u00b5g per  mL injection"
+    ],
+    "indications": [
+        "Palliative care"
+    ],
+    "tags": []
+},
+{
+    "name": "Ibuprofen",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "M01AE01",
+    "formulation": [
+        "Oral > Liquid: 200 mg per 5 mL",
+        "Oral > Solid: 200 mg; 400 mg; 600 mg"
+    ],
+    "indications": [
+        "Pain",
+        "Migraine",
+        "Patent arterial duct"
+    ],
+    "tags": []
+},
+{
+    "name": "Isoniazid + pyrazinamide + rifampicin",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "J04AM05",
+    "formulation": [
+        "Oral > Solid: 50 mg + 150 mg + 75 mg tablet (dispersible)"
+    ],
+    "indications": [
+        "Tuberculosis"
+    ],
+    "tags": []
+},
+{
+    "name": "Lactulose",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "A06AD11",
+    "formulation": [
+        "Oral > Liquid: 3.1 to 3.7 g per 5 mL oral liquid"
+    ],
+    "indications": [
+        "Palliative care"
+    ],
+    "tags": []
+},
+{
+    "name": "Lugol's solution",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "H03CA",
+    "formulation": [
+        "Oral > Liquid: 13% w/v (about 130 mg/mL total iodine)"
+    ],
+    "indications": [
+        "Thyrotoxicosis"
+    ],
+    "tags": []
+},
+{
+    "name": "Meropenem",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "J01DH02",
+    "formulation": [
+        "Parenteral > General injections > IV: 500 mg in vial (as trihydrate) powder for injection; 1 g in vial (as trihydrate) powder for injection"
+    ],
+    "indications": [
+        {
+            "name": "Second choice",
+            "choices": [
+                "Peritoneal abscess (severe)",
+                "Peritonitis (severe)",
+                "Neutropenia (high-risk)",
+                "Neonatal meningitis"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Methylprednisolone",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "H02AB04",
+    "formulation": [
+        "Parenteral > General injections > IV: 40 mg per  mL in 1 mL single-dose vial (as sodium succinate); 40 mg per  mL in 5 mL multi-dose vial (as sodium succinate); 80 mg per  mL in 1 mL single-dose vial (as sodium succinate)"
+    ],
+    "indications": [
+        "Lymphoid leukaemia, not elsewhere classified",
+        "Burkitt lymphoma including Burkitt leukaemia"
+    ],
+    "tags": []
+},
+{
+    "name": "Multiple micronutrient powder",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "A11AA01",
+    "formulation": [
+        "Oral > Other:"
+    ],
+    "indications": [
+        "Iron deficiency anaemia"
+    ],
+    "tags": []
+},
+{
+    "name": "Ofloxacin",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "S01AE01",
+    "formulation": [
+        "Local > Ophthalmological > Solution (eye drops): 0.3%"
+    ],
+    "indications": [
+        "Infectious keratitis",
+        "Other specified conjunctivitis",
+        "Multi-drug resistant Mycobacterium tuberculosis"
+    ],
+    "tags": []
+},
+{
+    "name": "Oral rehydration salts - zinc sulfate",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "A07CA",
+    "formulation": [
+        "Oral > Other: ORS powder for dilution and zinc sulfate solid oral dosage form 20 mg (co-packaged)"
+    ],
+    "indications": [
+        "Diarrhoea"
+    ],
+    "tags": []
+},
+{
+    "name": "Pancreatic enzymes",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "A09AA02",
+    "formulation": [
+        "Oral > Solid: Age-appropriate formulations and doses including lipase, protease and amylase."
+    ],
+    "indications": [
+        "Enzyme intestinal"
+    ],
+    "tags": []
+},
+{
+    "name": "Procaine benzylpenicillin",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "J01CE09",
+    "formulation": [
+        "Parenteral > General injections > IM: 1 g in vial (=1 million IU) powder for injection; 3 g in vial (=3 million IU) powder for injection"
+    ],
+    "indications": [
+        {
+            "name": "First choice",
+            "choices": [
+                "Congenital syphilis [children]"
+            ]
+        },
+        {
+            "name": "Second choice",
+            "choices": [
+                "Syphilis"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Procarbazine",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "L01XB01",
+    "formulation": [
+        "Oral > Solid: 50 mg (as hydrochloride)"
+    ],
+    "indications": [
+        "Unspecified malignant neoplasms of ill-defined or unspecified sites",
+        "Hodgkin lymphoma"
+    ],
+    "tags": []
+},
+{
+    "name": "Sulfadoxine + pyrimethamine",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "P01BD51",
+    "formulation": [
+        "Oral > Solid: 500 mg + 25 mg tablet"
+    ],
+    "indications": [
+        "Malaria due to Plasmodium falciparum",
+        "Malaria due to Plasmodium falciparum",
+        "Malaria"
+    ],
+    "tags": []
+},
+{
+    "name": "Tioguanine",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "L01BB03",
+    "formulation": [
+        "Oral > Solid: 40 mg"
+    ],
+    "indications": [
+        "Lymphoid leukaemia, not elsewhere classified"
+    ],
+    "tags": []
+},
+{
+    "name": "Xylometazoline",
+    "active_ingredient": "",
+    "age": "children",
+    "atc_code": "R01AA07",
+    "formulation": [
+        "Local > Nasal > Spray: 0.05% w/v equivalent to 0.5 mg per mL"
+    ],
+    "indications": [
+        "Nasal congestion"
+    ],
+    "tags": []
+}]

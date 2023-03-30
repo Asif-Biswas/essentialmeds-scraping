@@ -1,0 +1,299 @@
+[{
+    "name": "Caffeine citrate",
+    "active_ingredient": "",
+    "age": "newborn",
+    "atc_code": "N06BC01",
+    "sections": [
+        {
+            "name": "Medicines administered to the neonate [c]",
+            "formulations": [
+                "Parenteral > General injections > IV: 20 mg per  mL (equivalent to 10 mg caffeine base per mL)",
+                "Oral > Liquid: 20 mg per  mL (equivalent to 10 mg caffeine base per mL)"
+            ],
+            "indications": [
+                "Apnoea of newborn"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Chlorhexidine",
+    "active_ingredient": "",
+    "age": "newborn",
+    "atc_code": "D08AC02",
+    "sections": [
+        {
+            "name": "Antiseptics",
+            "formulations": [
+                "Local > Topical > Solution: 5% (digluconate) for dilution"
+            ],
+            "indications": [
+                "Chlorhexidine"
+            ]
+        },
+        {
+            "name": "Medicines administered to the neonate [c]",
+            "formulations": [
+                "Local > Topical > Solution: 7.1% chlorhexidine digluconate (delivering 4% chlorhexidine)",
+                "Local > Topical > Gel: 7.1% chlorhexidine digluconate (delivering 4% chlorhexidine)"
+            ],
+            "indications": [
+                "Omphalitis of newborn"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Erythromycin",
+    "active_ingredient": "",
+    "age": "newborn",
+    "atc_code": "S01AA17",
+    "sections": [
+        {
+            "name": "Ophthalmological preparations > Anti-infective agents",
+            "formulations": [
+                "Local > Ophthalmological > Ointment: 0.5%"
+            ],
+            "indications": [
+                "Gonococcal infection of eye",
+                "Chlamydial conjunctivitis"
+            ]
+        },
+        {
+            "name": "Watch group antibiotics",
+            "formulations": [
+                "Parenteral > General injections > IV: 500 mg in vial powder for injection (as lactobionate)",
+                "Oral > Liquid: 125 mg per 5 mL (as stearate or ethylsuccinate)",
+                "Oral > Solid: 250 mg (as stearate or ethylsuccinate)"
+            ],
+            "indications": [
+                "Bacterial infection of unspecified site"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Gentamicin",
+    "active_ingredient": "",
+    "age": "newborn",
+    "atc_code": "S02AA14",
+    "sections": [
+        {
+            "name": "Ophthalmological preparations > Anti-infective agents",
+            "formulations": [
+                "Local > Ophthalmological > Solution (eye drops): 0.3% (gentamicin sulfate)"
+            ],
+            "indications": [
+                "Infectious blepharitis",
+                "Other specified conjunctivitis"
+            ]
+        },
+        {
+            "name": "Access group antibiotics",
+            "formulations": [
+                "Parenteral > General injections > unspecified: 10 mg per  mL in 2 mL vial (as sulfate)",
+                "Parenteral > General injections > unspecified: 40 mg per  mL in 2 mL vial (as sulfate)"
+            ],
+            "indications": [
+                {
+                    "name": "First choice",
+                    "choices": [
+                        {
+                            "name": "Neonatal meningitis",
+                            "combination": ""
+                        },
+                        {
+                            "name": "Bacterial pneumonia (Community-acquired pneumonia - severe) [children]",
+                            "combination": "co-prescribed with amoxicillin"
+                        },
+                        {
+                            "name": "Sepsis without septic shock",
+                            "combination": "co-prescribed with amoxicillin"
+                        },
+                        {
+                            "name": "Peritonitis (mild-moderate)",
+                            "combination": "co-prescribed with ampicillin"
+                        },
+                        {
+                            "name": "Peritoneal abscess (mild-moderate)",
+                            "combination": "co-prescribed with ampicillin"
+                        },
+                        {
+                            "name": "Peritoneal abscess (severe)",
+                            "combination": "co-prescribed with ampicillin"
+                        },
+                        {
+                            "name": "Acute malnutrition in infants, children or adolescents (complicated) [children]",
+                            "combination": "co-prescribed with ampicillin"
+                        },
+                        {
+                            "name": "Sepsis without septic shock",
+                            "combination": "co-prescribed with ampicillin"
+                        },
+                        {
+                            "name": "Peritonitis (severe)",
+                            "combination": "co-prescribed with ampicillin"
+                        },
+                        {
+                            "name": "Bacterial pneumonia (Community-acquired pneumonia - severe) [children]",
+                            "combination": "co-prescribed with ampicillin"
+                        },
+                        {
+                            "name": "Bacterial pneumonia (Community-acquired pneumonia - severe) [children]",
+                            "combination": "co-prescribed with benzylpenicillin"
+                        },
+                        {
+                            "name": "Sepsis without septic shock",
+                            "combination": "co-prescribed with benzylpenicillin"
+                        },
+                        {
+                            "name": "Acute malnutrition in infants, children or adolescents (complicated) [children]",
+                            "combination": "co-prescribed with benzylpenicillin"
+                        }
+                    ]
+                },
+                {
+                    "name": "Second choice",
+                    "choices": [
+                        {
+                            "name": "Other specified prophylactic measures",
+                            "combination": ""
+                        },
+                        {
+                            "name": "Gonococcal infection",
+                            "combination": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Ibuprofen",
+    "active_ingredient": "",
+    "age": "newborn",
+    "atc_code": "M01AE01",
+    "sections": [
+        {
+            "name": "Non-opioids and non-steroidal anti-inflammatory medicines (NSAIMs)",
+            "formulations": [
+                "Oral > Liquid: 200 mg per 5 mL",
+                "Oral > Solid: 200 mg",
+                "Oral > Solid: 400 mg",
+                "Oral > Solid: 600 mg"
+            ],
+            "indications": [
+                "Pain"
+            ]
+        },
+        {
+            "name": "Antimigraine medicines > For treatment of acute attack",
+            "formulations": [
+                "Oral > Solid: 200 mg",
+                "Oral > Solid: 400 mg"
+            ],
+            "indications": [
+                "Migraine"
+            ]
+        },
+        {
+            "name": "Medicines administered to the neonate [c]",
+            "formulations": [
+                "Parenteral > General injections > IV: 5 mg per  mL"
+            ],
+            "indications": [
+                "Patent arterial duct"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Indometacin",
+    "active_ingredient": "",
+    "age": "newborn",
+    "atc_code": "",
+    "sections": [],
+    "tags": []
+},
+{
+    "name": "Phytomenadione",
+    "active_ingredient": "",
+    "age": "newborn",
+    "atc_code": "B02BA01",
+    "sections": [
+        {
+            "name": "Medicines affecting coagulation",
+            "formulations": [
+                "Parenteral > General injections > IV: 10 mg per  mL in ampoule",
+                "Parenteral > General injections > IV: 1 mg per  mL in ampoule",
+                "Oral > Solid: 10 mg tablet"
+            ],
+            "indications": [
+                "Haemorrhagic disorder due to other specified circulating anticoagulants",
+                "Haemorrhagic or haematological disorders of fetus or newborn"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Prostaglandin E1",
+    "active_ingredient": "",
+    "age": "newborn",
+    "atc_code": "C01EA01",
+    "sections": [
+        {
+            "name": "Medicines administered to the neonate [c]",
+            "formulations": [
+                "Parenteral > General injections > IV: 0.5 mg per  mL in alcohol"
+            ],
+            "indications": [
+                "Other specified congenital anomaly of great arteries including arterial duct"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Prostaglandin E2",
+    "active_ingredient": "",
+    "age": "newborn",
+    "atc_code": "G02AD02",
+    "sections": [
+        {
+            "name": "Medicines administered to the neonate [c]",
+            "formulations": [
+                "Parenteral > General injections > IV: 1 mg per  mL"
+            ],
+            "indications": [
+                "Other specified congenital anomaly of great arteries including arterial duct"
+            ]
+        }
+    ],
+    "tags": []
+},
+{
+    "name": "Surfactant",
+    "active_ingredient": "",
+    "age": "newborn",
+    "atc_code": "R07AA02",
+    "sections": [
+        {
+            "name": "Medicines administered to the neonate [c]",
+            "formulations": [
+                "Respiratory > Suspension: 80 mg per  mL for intratracheal instillation",
+                "Respiratory > Suspension: 25 mg per  mL for intratracheal instillation"
+            ],
+            "indications": [
+                "Respiratory distress syndrome of newborn"
+            ]
+        }
+    ],
+    "tags": []
+}]
